@@ -1,0 +1,548 @@
+[
+    {
+        "class_from":"1",
+        "class_to":"1.4",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"1",
+        "class_to":"2.1",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from (separate holds)",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"1",
+        "class_to":"2.2",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"1",
+        "class_to":"2.3",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"1",
+        "class_to":"3",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"1",
+        "class_to":"4.1",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"1",
+        "class_to":"4.2",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"1",
+        "class_to":"4.3",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"1",
+        "class_to":"5.1",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"1",
+        "class_to":"5.2",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"2.1",
+        "class_to":"2.1",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"2.1",
+        "class_to":"2.3",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"2.1",
+        "class_to":"3",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"2.1",
+        "class_to":"4.1",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"2.1",
+        "class_to":"4.2",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"2.1",
+        "class_to":"4.3",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"2.1",
+        "class_to":"5.1",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"2.1",
+        "class_to":"5.2",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"2.2",
+        "class_to":"2.2",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"2.2",
+        "class_to":"3",
+        "segregation_code":"1",
+        "segregation_rule":"Away from (1.5m minimum)",
+        "risk_penalty":5
+    },
+    {
+        "class_from":"2.2",
+        "class_to":"4.1",
+        "segregation_code":"1",
+        "segregation_rule":"Away from (1.5m minimum)",
+        "risk_penalty":5
+    },
+    {
+        "class_from":"2.2",
+        "class_to":"5.1",
+        "segregation_code":"1",
+        "segregation_rule":"Away from (1.5m minimum)",
+        "risk_penalty":5
+    },
+    {
+        "class_from":"2.2",
+        "class_to":"8",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"2.3",
+        "class_to":"2.3",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"2.3",
+        "class_to":"3",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"2.3",
+        "class_to":"4.1",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"2.3",
+        "class_to":"4.2",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"2.3",
+        "class_to":"4.3",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"2.3",
+        "class_to":"5.1",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"2.3",
+        "class_to":"6.1",
+        "segregation_code":"1",
+        "segregation_rule":"Away from (1.5m minimum)",
+        "risk_penalty":5
+    },
+    {
+        "class_from":"2.3",
+        "class_to":"8",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"3",
+        "class_to":"3",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"3",
+        "class_to":"4.1",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"3",
+        "class_to":"4.2",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"3",
+        "class_to":"4.3",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"3",
+        "class_to":"5.1",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"3",
+        "class_to":"5.2",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"3",
+        "class_to":"8",
+        "segregation_code":"1",
+        "segregation_rule":"Away from (1.5m minimum)",
+        "risk_penalty":5
+    },
+    {
+        "class_from":"3",
+        "class_to":"9",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"4.1",
+        "class_to":"4.1",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"4.1",
+        "class_to":"4.2",
+        "segregation_code":"1",
+        "segregation_rule":"Away from (1.5m minimum)",
+        "risk_penalty":5
+    },
+    {
+        "class_from":"4.1",
+        "class_to":"4.3",
+        "segregation_code":"1",
+        "segregation_rule":"Away from (1.5m minimum)",
+        "risk_penalty":5
+    },
+    {
+        "class_from":"4.1",
+        "class_to":"5.1",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"4.1",
+        "class_to":"5.2",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"4.1",
+        "class_to":"8",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"4.2",
+        "class_to":"4.2",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"4.2",
+        "class_to":"4.3",
+        "segregation_code":"1",
+        "segregation_rule":"Away from (1.5m minimum)",
+        "risk_penalty":5
+    },
+    {
+        "class_from":"4.2",
+        "class_to":"5.1",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"4.2",
+        "class_to":"5.2",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"4.2",
+        "class_to":"8",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"4.3",
+        "class_to":"4.3",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"4.3",
+        "class_to":"5.1",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"4.3",
+        "class_to":"5.2",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"4.3",
+        "class_to":"6.1",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"4.3",
+        "class_to":"8",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"5.1",
+        "class_to":"5.1",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"5.1",
+        "class_to":"5.2",
+        "segregation_code":"4",
+        "segregation_rule":"Separated from",
+        "risk_penalty":25
+    },
+    {
+        "class_from":"5.1",
+        "class_to":"6.1",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"5.1",
+        "class_to":"8",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"5.1",
+        "class_to":"9",
+        "segregation_code":"1",
+        "segregation_rule":"Away from (1.5m minimum)",
+        "risk_penalty":5
+    },
+    {
+        "class_from":"5.1",
+        "class_to":"6.2",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"5.2",
+        "class_to":"5.2",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"5.2",
+        "class_to":"6.1",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"5.2",
+        "class_to":"8",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"5.2",
+        "class_to":"9",
+        "segregation_code":"1",
+        "segregation_rule":"Away from (1.5m minimum)",
+        "risk_penalty":5
+    },
+    {
+        "class_from":"6.1",
+        "class_to":"6.1",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"6.1",
+        "class_to":"6.2",
+        "segregation_code":"3",
+        "segregation_rule":"Separated by (one compartment)",
+        "risk_penalty":15
+    },
+    {
+        "class_from":"6.1",
+        "class_to":"8",
+        "segregation_code":"1",
+        "segregation_rule":"Away from (1.5m minimum)",
+        "risk_penalty":5
+    },
+    {
+        "class_from":"6.1",
+        "class_to":"9",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"6.2",
+        "class_to":"6.2",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"6.2",
+        "class_to":"8",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"6.2",
+        "class_to":"9",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"7",
+        "class_to":"7",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"7",
+        "class_to":"8",
+        "segregation_code":"2",
+        "segregation_rule":"Away from (3m minimum)",
+        "risk_penalty":10
+    },
+    {
+        "class_from":"7",
+        "class_to":"9",
+        "segregation_code":"1",
+        "segregation_rule":"Away from (1.5m minimum)",
+        "risk_penalty":5
+    },
+    {
+        "class_from":"8",
+        "class_to":"8",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"8",
+        "class_to":"9",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    },
+    {
+        "class_from":"9",
+        "class_to":"9",
+        "segregation_code":"X",
+        "segregation_rule":"Can be stowed together",
+        "risk_penalty":0
+    }
+]
