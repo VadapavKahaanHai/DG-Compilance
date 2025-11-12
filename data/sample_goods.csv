@@ -1,0 +1,1201 @@
+un_number,proper_shipping_name,class_id,packing_group,flash_point,special_provisions,common_uses
+UN1387,"Oxygen, n.o.s.",2.2,N/A,N/A,Asphyxiation risk,Food preservation
+UN1105,"Explosive, with charge",1.2,N/A,N/A,Separation required,Aerospace
+UN1896,Arsenic,6.1,III,N/A,Avoid inhalation,Manufacturing
+UN1649,"Activated carbon, stabilized",4.2,III,-60°C,No organic material - Consult SDS for details,Chemical production
+UN1580,"Nitrocellulose, wetted",4.1,I,-30°C,Friction-sensitive,Chemical production
+UN2118,"Sodium hydroxide, spent",8,III,N/A,Eye protection,Manufacturing
+UN1470,Acetone,3,I,60°C,Away from heat - Keep away from foodstuffs,Fuel
+UN2173,"Elevated temperature, miscellaneous",9,N/A,N/A,Various hazards,Research
+UN1203,"Firework, smoke, n.o.s.",1.4,N/A,N/A,Compatible with general cargo - Segregate as per IMDG Code,Entertainment
+UN1089,"Warhead, inert loaded",1.2,N/A,N/A,Separation required,Pyrotechnics
+UN2171,"Marine pollutant, solid",9,III,N/A,Check SDS,Electronics
+UN1498,Solvent,3,I,13°C,Away from heat,Coating
+UN1555,"Metal powder, flammable, n.o.s.",4.1,II,-30°C,Friction-sensitive - Segregate as per IMDG Code,Agriculture
+UN1840,"Organic peroxide, type A",5.2,N/A,N/A,Thermally unstable - Consult SDS for details,Manufacturing
+UN1827,"Benzoyl peroxide, type E",5.2,N/A,N/A,May explode - Segregate as per IMDG Code,Polymerization
+UN1767,Ammonium nitrate,5.1,III,N/A,Away from combustibles - Emergency equipment nearby,Chemical production
+UN1194,"Explosive, smokeless",1.3,N/A,N/A,Minor blast risk,Aerospace
+UN1944,"Medical waste, human, n.o.s.",6.2,N/A,N/A,Biohazard - Emergency equipment nearby,Research
+UN2081,"Hydrochloric acid, corrosive",8,III,N/A,Eye protection - Segregate as per IMDG Code,Chemical production
+UN1496,"Paint, n.o.s.",3,I,23°C,Flammable liquid - Proper ventilation required,Manufacturing
+UN2063,"Nitric acid, corrosive, n.o.s.",8,III,N/A,Corrosive - Proper ventilation required,Cleaning
+UN1618,Coal,4.2,II,-60°C,Temperature monitoring - Proper ventilation required,Agriculture
+UN1351,"Oxygen, liquefied",2.2,N/A,N/A,Ventilation - Keep away from foodstuffs,Inert atmosphere
+UN1802,"Organic peroxide, n.o.s.",5.2,N/A,N/A,May explode,Chemical synthesis
+UN1736,"Ammonium nitrate, solution",5.1,III,N/A,Away from combustibles,Bleaching
+UN2062,"Nitric acid, corrosive",8,I,N/A,Eye protection - Keep away from foodstuffs,Water treatment
+UN1798,"Organic peroxide, type B, n.o.s.",5.2,N/A,N/A,Thermally unstable,Plastics production
+UN1173,"Propellant, n.o.s.",1.3,N/A,N/A,Minor blast risk,Aerospace
+UN1762,"Ammonium nitrate, mixture",5.1,I,N/A,Oxidizing substance,Bleaching
+UN1257,"Flare, hand",1.4,N/A,N/A,Keep dry,Emergency signaling
+UN1037,"Dynamite, shaped, n.o.s.",1.1,N/A,N/A,Shock-sensitive - Keep away from foodstuffs,Military
+UN2130,"Environmentally hazardous, miscellaneous",9,III,N/A,Special handling,Research
+UN2070,Hydrochloric acid,8,I,N/A,Avoid skin contact,Cleaning
+UN2197,"Methyl ethyl ketone peroxide, stabilized",5.2,N/A,N/A,Temperature controlled,Manufacturing
+UN1156,"Rocket motor, n.o.s.",1.3,N/A,N/A,Minor blast risk,Ammunition
+UN1922,"Pesticide, mixture, n.o.s.",6.1,II,N/A,Avoid inhalation - Special training required,Industrial
+UN1186,"Explosive, primer",1.3,N/A,N/A,Fire hazard - Consult SDS for details,Military
+UN1213,"Signal, blank",1.4,N/A,N/A,Minor hazard - Segregate as per IMDG Code,Safety
+UN2168,"Lithium battery, miscellaneous",9,N/A,N/A,Check SDS,Transport
+UN1929,"Infectious substance, n.o.s.",6.2,N/A,N/A,Special packaging - Emergency equipment nearby,Veterinary
+UN1561,"Metal powder, wetted",4.1,III,N/A,Flammable solid - Keep away from foodstuffs,Pyrotechnics
+UN1524,Acetone,3,II,-60°C,Flammable liquid,Fuel
+UN1289,"LPG, n.o.s.",2.1,N/A,-30°C,Pressure hazard,Refrigeration
+UN1042,"Primer, military",1.1,N/A,N/A,Shock-sensitive - Segregate as per IMDG Code,Military
+UN1360,"Helium, compressed",2.2,N/A,N/A,Pressure hazard,Welding
+UN1465,"Gasoline, n.o.s.",3,III,-30°C,Bonding/grounding required - Consult SDS for details,Coating
+UN1310,Acetylene,2.1,N/A,-20°C,Ventilation required,Industrial
+UN1676,"Lithium, hydride",4.3,I,N/A,Water-reactive - Keep away from foodstuffs,Chemical production
+UN2123,"Environmentally hazardous, miscellaneous",9,III,N/A,Environmental protection,Research
+UN1462,Diesel,3,I,-30°C,Bonding/grounding required - Consult SDS for details,Solvent
+UN1620,"Fishmeal, yellow",4.2,II,-20°C,No organic material,Industrial
+UN1684,"Lithium, n.o.s.",4.3,III,N/A,Water-reactive,Industrial
+UN2187,"Genetically modified, liquid",9,N/A,N/A,Special handling - Keep away from foodstuffs,Transport
+UN1307,"LPG, liquefied",2.1,N/A,-60°C,Ventilation required - Special training required,Welding
+UN1315,"Acetylene, liquefied",2.1,N/A,-30°C,Ventilation required,Welding
+UN2128,Marine pollutant,9,III,N/A,Various hazards - Proper ventilation required,Electronics
+UN1291,Hydrogen,2.1,N/A,-20°C,Ventilation required - Consult SDS for details,Fuel
+UN1005,"Charge, shaped, n.o.s.",1.1,N/A,N/A,No smoking zones - Keep away from foodstuffs,Demolition
+UN1638,"Metal powder, pyrophoric",4.2,II,N/A,No organic material,Agriculture
+UN1299,"Hydrogen, liquefied",2.1,N/A,-60°C,No ignition sources,Refrigeration
+UN1235,Flare,1.4,N/A,N/A,Compatible with general cargo,Training
+UN1858,"Pesticide, solid",6.1,III,N/A,Toxic substance - Segregate as per IMDG Code,Chemical production
+UN1617,"Metal powder, stabilized",4.2,I,-30°C,Protect from heat,Chemical production
+UN1989,"Infectious substance, unspecified, n.o.s.",6.2,N/A,N/A,Biohazard - Segregate as per IMDG Code,Medical diagnostics
+UN1383,"Argon, refrigerated",2.2,N/A,N/A,Asphyxiation risk,Food preservation
+UN1582,"Matches, organic",4.1,II,N/A,Friction-sensitive,Agriculture
+UN1825,Organic peroxide,5.2,N/A,N/A,Thermally unstable - Keep away from foodstuffs,Polymerization
+UN1248,"Squib, hand",1.4,N/A,N/A,Minor hazard,Entertainment
+UN2068,Sulfuric acid,8,I,N/A,Severe burns,Cleaning
+UN1751,"Calcium hypochlorite, solid",5.1,III,N/A,Oxidizing substance - Consult SDS for details,Water treatment
+UN1597,"Phosphorus, yellow",4.2,III,-30°C,Spontaneous combustion - Keep away from foodstuffs,Agriculture
+UN1853,"Benzoyl peroxide, type E",5.2,N/A,N/A,May explode - Proper ventilation required,Polymerization
+UN1349,"Oxygen, liquefied",2.2,N/A,N/A,Asphyxiation risk,Industrial
+UN2010,"Cobalt, Type A, n.o.s.",7,N/A,N/A,Radiation hazard,Industrial gauges
+UN1804,"Organic peroxide, type D",5.2,N/A,N/A,Temperature controlled,Chemical synthesis
+UN2061,"Sodium hydroxide, concentrated, n.o.s.",8,I,N/A,Avoid skin contact,Chemical production
+UN2101,Nitric acid,8,III,N/A,Avoid skin contact,Cleaning
+UN1104,"Explosive, training, n.o.s.",1.2,N/A,N/A,Fire risk,Defense
+UN1772,"Ammonium nitrate, solution",5.1,II,N/A,Fire enhancement - Consult SDS for details,Water treatment
+UN1725,"Calcium, alloy",4.3,II,N/A,Emit flammable gas,Battery manufacturing
+UN1175,"Ammunition, with expelling charge",1.3,N/A,N/A,Minor blast risk,Propulsion
+UN2148,"Environmentally hazardous, miscellaneous",9,II,N/A,Special handling - Special training required,Manufacturing
+UN1593,Phosphorus,4.1,III,-20°C,Away from heat - Segregate as per IMDG Code,Agriculture
+UN2143,Marine pollutant,9,II,N/A,Various hazards - Emergency equipment nearby,Various industrial
+UN1599,"Phosphorus, stabilized, n.o.s.",4.2,I,N/A,Temperature monitoring,Industrial
+UN1198,"Flare, blank, n.o.s.",1.4,N/A,N/A,Keep dry,Safety
+UN1515,"Acetone, n.o.s.",3,I,60°C,Bonding/grounding required - Special training required,Printing
+UN1244,"Firework, smoke",1.4,N/A,N/A,Minor hazard,Emergency signaling
+UN1835,"Methyl ethyl ketone peroxide, n.o.s.",5.2,N/A,N/A,May explode - Emergency equipment nearby,Plastics production
+UN1086,"Projectile, practice",1.2,N/A,N/A,Fire risk,Military training
+UN1914,"Pesticide, n.o.s.",6.1,III,N/A,Skin protection,Pesticide
+UN1761,"Hydrogen peroxide, oxidizing",5.1,II,N/A,Oxidizing substance,Fertilizer
+UN1605,"Activated carbon, n.o.s.",4.2,III,-20°C,Protect from heat - Segregate as per IMDG Code,Agriculture
+UN1527,"Methanol, n.o.s.",3,III,60°C,No smoking,Coating
+UN1336,"Air, refrigerated, n.o.s.",2.2,N/A,N/A,Temperature control - Proper ventilation required,Inert atmosphere
+UN1101,"Missile, illuminating",1.2,N/A,N/A,Projection hazard - Keep away from foodstuffs,Pyrotechnics
+UN1253,"Flare, blank, n.o.s.",1.4,N/A,N/A,Minor hazard,Safety
+UN1995,Uranium,7,N/A,N/A,Licensed transport - Consult SDS for details,Medical
+UN1559,"Matches, self-reactive, n.o.s.",4.1,I,-60°C,Friction-sensitive,Manufacturing
+UN2058,"Sodium hydroxide, spent",8,I,N/A,Corrosive - Special training required,Water treatment
+UN1757,"Calcium hypochlorite, n.o.s.",5.1,III,N/A,Fire enhancement,Water treatment
+UN1469,"Methanol, flammable, n.o.s.",3,II,60°C,Flammable liquid,Fuel
+UN1904,Pesticide,6.1,I,N/A,Avoid inhalation,Pesticide
+UN1392,"Air, cryogenic",2.2,N/A,N/A,Temperature control,Welding
+UN1154,"Explosive, primer, n.o.s.",1.3,N/A,N/A,Away from heat,Military
+UN2002,Cesium,7,N/A,N/A,Radiation hazard,Imaging
+UN1884,Cyanide,6.1,I,N/A,Avoid inhalation,Industrial
+UN1389,"Air, n.o.s.",2.2,N/A,N/A,Pressure hazard - Keep away from foodstuffs,Medical
+UN1773,"Ammonium nitrate, fertilizer grade, n.o.s.",5.1,III,N/A,Fire enhancement - Proper ventilation required,Bleaching
+UN1715,"Lithium, powder",4.3,I,N/A,Water-reactive,Battery manufacturing
+UN2030,"Cesium, Type C, n.o.s.",7,N/A,N/A,Radiation hazard,Imaging
+UN1405,"Chlorine, n.o.s.",2.3,N/A,N/A,Toxic by inhalation,Refrigeration
+UN1286,"Hydrogen, mixture, n.o.s.",2.1,N/A,-60°C,No ignition sources - Consult SDS for details,Fuel
+UN1728,"Ammonium nitrate, oxidizing",5.1,II,N/A,Oxidizing substance,Water treatment
+UN1125,Rocket,1.2,N/A,N/A,Separation required,Pyrotechnics
+UN1120,"Rocket, practice",1.2,N/A,N/A,Fire risk,Pyrotechnics
+UN1763,"Sodium chlorate, oxidizing",5.1,I,N/A,Separate from organics,Disinfection
+UN1836,"Methyl ethyl ketone peroxide, type A, n.o.s.",5.2,N/A,N/A,Temperature controlled,Plastics production
+UN1422,Carbon monoxide,2.3,N/A,N/A,Respiratory protection - Segregate as per IMDG Code,Water treatment
+UN1267,"Ethane, mixture",2.1,N/A,N/A,Pressure hazard - Consult SDS for details,Industrial
+UN1570,Sulfur,4.1,III,N/A,Flammable solid,Agriculture
+UN2013,"Cesium, fissile",7,N/A,N/A,Monitoring required,Power generation
+UN1427,Sulfur dioxide,2.3,N/A,N/A,Toxic by inhalation,Chemical production
+UN1259,Squib,1.4,N/A,N/A,Compatible with general cargo,Safety
+UN2022,Thorium,7,N/A,N/A,Monitoring required,Research
+UN1437,"Carbon monoxide, n.o.s.",2.3,N/A,N/A,Leak detection required,Industrial
+UN1252,"Signal, smoke",1.4,N/A,N/A,Keep dry - Emergency equipment nearby,Emergency signaling
+UN1916,Strychnine,6.1,I,N/A,Skin protection,Industrial
+UN1478,Adhesive,3,III,-20°C,No smoking,Solvent
+UN1756,Hydrogen peroxide,5.1,II,N/A,Oxidizing substance,Chemical production
+UN1444,"Ammonia, compressed",2.3,N/A,N/A,Leak detection required,Refrigeration
+UN1565,"Metal powder, n.o.s.",4.1,III,-30°C,Keep dry,Agriculture
+UN2011,"Cobalt, Type A",7,N/A,N/A,Radiation hazard,Imaging
+UN1490,"Ink, mixture",3,III,-10°C,Away from heat,Printing
+UN1009,"Charge, military, n.o.s.",1.1,N/A,N/A,No smoking zones - Emergency equipment nearby,Mining
+UN1812,"Organic peroxide, stabilized",5.2,N/A,N/A,Refrigeration required - Emergency equipment nearby,Plastics production
+UN1298,Hydrogen,2.1,N/A,N/A,Highly flammable,Industrial
+UN1457,"Sulfur dioxide, n.o.s.",2.3,N/A,N/A,Emergency procedures - Special training required,Chemical production
+UN1708,"Aluminum powder, alloy, n.o.s.",4.3,I,N/A,No water for fire - Proper ventilation required,Battery manufacturing
+UN1990,Thorium,7,N/A,N/A,Radiation hazard - Emergency equipment nearby,Medical
+UN1986,"Diagnostic specimen, animal, n.o.s.",6.2,N/A,N/A,Leak-proof,Veterinary
+UN1637,"Fishmeal, self-heating, n.o.s.",4.2,II,-60°C,Temperature monitoring,Agriculture
+UN1055,Dynamite,1.1,N/A,N/A,No smoking zones - Consult SDS for details,Military
+UN1368,Argon,2.2,N/A,N/A,Ventilation,Welding
+UN1823,"Benzoyl peroxide, stabilized",5.2,N/A,N/A,Refrigeration required,Chemical synthesis
+UN1714,Sodium,4.3,III,N/A,No water for fire,Metallurgy
+UN1021,"Dynamite, type B",1.1,N/A,N/A,No smoking zones - Segregate as per IMDG Code,Construction
+UN1344,"Argon, refrigerated, n.o.s.",2.2,N/A,N/A,Temperature control - Proper ventilation required,Inert atmosphere
+UN1543,Nitrocellulose,4.1,III,N/A,Keep dry,Chemical production
+UN2162,"Genetically modified, liquid, n.o.s.",9,II,N/A,Check SDS,Transport
+UN1114,"Warhead, illuminating",1.2,N/A,N/A,Projection hazard - Segregate as per IMDG Code,Pyrotechnics
+UN1961,"Medical waste, Category A",6.2,N/A,N/A,Disinfection required,Veterinary
+UN1162,"Propellant, igniter, n.o.s.",1.3,N/A,N/A,Fire hazard - Special training required,Aerospace
+UN1270,Ethane,2.1,N/A,-60°C,Highly flammable,Industrial
+UN1948,Biological substance,6.2,N/A,N/A,Leak-proof,Healthcare
+UN1706,"Aluminum powder, powder",4.3,III,N/A,No water for fire - Segregate as per IMDG Code,Industrial
+UN1012,"Detonator, type B",1.1,N/A,N/A,Explosive magazine required,Construction
+UN1357,"Oxygen, cryogenic",2.2,N/A,N/A,Pressure hazard,Welding
+UN1382,Helium,2.2,N/A,N/A,Pressure hazard - Segregate as per IMDG Code,Welding
+UN1370,"Air, liquefied",2.2,N/A,N/A,Ventilation,Industrial
+UN1781,"Ammonium nitrate, fertilizer grade, n.o.s.",5.1,I,N/A,Oxidizing substance,Fertilizer
+UN2115,"Battery acid, diluted",8,II,N/A,Severe burns - Emergency equipment nearby,Water treatment
+UN1200,Cartridge,1.4,N/A,N/A,Compatible with general cargo,Entertainment
+UN1780,Calcium hypochlorite,5.1,I,N/A,Separate from organics,Bleaching
+UN1880,"Strychnine, liquid, n.o.s.",6.1,II,N/A,Fatal if swallowed,Laboratory
+UN1272,"Butane, mixture",2.1,N/A,N/A,Ventilation required - Segregate as per IMDG Code,Heating
+UN1695,"Sodium, mixture",4.3,III,N/A,Water-reactive,Metallurgy
+UN1611,"Phosphorus, self-heating, n.o.s.",4.2,I,-30°C,Temperature monitoring,Agriculture
+UN1467,"Ink, solution, n.o.s.",3,I,0°C,No smoking,Fuel
+UN1080,"Missile, practice",1.2,N/A,N/A,Projection hazard - Consult SDS for details,Pyrotechnics
+UN1506,"Toluene, mixture",3,I,38°C,Away from heat,Solvent
+UN1158,"Ammunition, with expelling charge",1.3,N/A,N/A,Away from heat,Military
+UN1425,"Phosgene, refrigerated",2.3,N/A,N/A,Emergency procedures,Chemical production
+UN2051,"Thorium, Type C",7,N/A,N/A,Radiation hazard,Imaging
+UN1443,Ammonia,2.3,N/A,N/A,Emergency procedures - Segregate as per IMDG Code,Chemical production
+UN1569,"Sulfur, self-reactive",4.1,III,-30°C,Flammable solid,Pyrotechnics
+UN1743,"Hydrogen peroxide, mixture, n.o.s.",5.1,I,N/A,Separate from organics,Disinfection
+UN2150,"Environmentally hazardous, miscellaneous",9,III,N/A,Environmental protection,Various industrial
+UN2085,Battery acid,8,II,N/A,Avoid skin contact - Keep away from foodstuffs,Water treatment
+UN1607,"Coal, pyrophoric, n.o.s.",4.2,III,N/A,Protect from heat - Emergency equipment nearby,Agriculture
+UN2167,"Lithium battery, solid, n.o.s.",9,N/A,N/A,Various hazards - Keep away from foodstuffs,Manufacturing
+UN1700,Aluminum powder,4.3,III,N/A,No water for fire,Industrial
+UN1622,"Coal, white, n.o.s.",4.2,II,-30°C,Spontaneous combustion,Agriculture
+UN1342,"Carbon dioxide, cryogenic",2.2,N/A,N/A,Asphyxiation risk,Welding
+UN1978,"Infectious substance, animal",6.2,N/A,N/A,Disinfection required,Research
+UN1881,Arsenic,6.1,I,N/A,Avoid inhalation,Pesticide
+UN2089,Hydrochloric acid,8,III,N/A,Corrosive,Manufacturing
+UN1477,"Gasoline, flammable",3,II,0°C,Flammable liquid,Printing
+UN2166,"Genetically modified, containing",9,N/A,N/A,Check SDS,Research
+UN1127,"Projectile, training",1.2,N/A,N/A,Fire risk,Aerospace
+UN2071,"Nitric acid, n.o.s.",8,I,N/A,Eye protection,Cleaning
+UN1861,Strychnine,6.1,I,N/A,Toxic substance,Industrial
+UN1163,"Propellant, n.o.s.",1.3,N/A,N/A,Minor blast risk,Aerospace
+UN1525,"Toluene, n.o.s.",3,II,60°C,No smoking,Coating
+UN1426,"Sulfur dioxide, liquefied",2.3,N/A,N/A,Emergency procedures,Water treatment
+UN2189,"Signal, practice",1.4,N/A,N/A,Compatible with general cargo,Safety
+UN1196,"Explosive, primer",1.3,N/A,N/A,Keep cool,Ammunition
+UN1659,"Fishmeal, n.o.s.",4.2,II,N/A,Protect from heat,Industrial
+UN1363,"Helium, compressed",2.2,N/A,N/A,Temperature control,Food preservation
+UN1900,"Cyanide, mixture",6.1,III,N/A,Fatal if swallowed - Keep away from foodstuffs,Manufacturing
+UN1119,"Warhead, illuminating",1.2,N/A,N/A,Separation required,Military training
+UN1648,"Activated carbon, stabilized, n.o.s.",4.2,III,-20°C,Temperature monitoring - Special training required,Manufacturing
+UN1877,"Mercury, n.o.s.",6.1,III,N/A,Fatal if swallowed - Segregate as per IMDG Code,Pesticide
+UN1850,"Benzoyl peroxide, type A",5.2,N/A,N/A,Temperature controlled,Polymerization
+UN1062,"Explosive, with burster, n.o.s.",1.1,N/A,N/A,Shock-sensitive,Military
+UN1699,"Aluminum powder, metal, n.o.s.",4.3,III,N/A,Emit flammable gas,Industrial
+UN1766,"Hydrogen peroxide, fertilizer grade, n.o.s.",5.1,III,N/A,Away from combustibles - Consult SDS for details,Disinfection
+UN1059,"Charge, military, n.o.s.",1.1,N/A,N/A,Shock-sensitive - Emergency equipment nearby,Demolition
+UN1043,"Charge, type B",1.1,N/A,N/A,Explosive magazine required,Construction
+UN1219,"Firework, n.o.s.",1.4,N/A,N/A,Minor hazard - Consult SDS for details,Training
+UN2088,"Battery acid, corrosive",8,III,N/A,Eye protection - Keep away from foodstuffs,Water treatment
+UN1791,"Hydrogen peroxide, solution, n.o.s.",5.1,III,N/A,Away from combustibles - Consult SDS for details,Fertilizer
+UN1657,"Activated carbon, n.o.s.",4.2,III,-60°C,Temperature monitoring - Special training required,Industrial
+UN1057,"Detonator, shaped, n.o.s.",1.1,N/A,N/A,Explosive magazine required - Keep away from foodstuffs,Construction
+UN1956,"Biological substance, Category A",6.2,N/A,N/A,Disinfection required - Emergency equipment nearby,Research
+UN1201,"Firework, blank, n.o.s.",1.4,N/A,N/A,Minor hazard,Emergency signaling
+UN1164,"Explosive, smokeless, n.o.s.",1.3,N/A,N/A,Away from heat,Military
+UN2003,"Thorium, Type B",7,N/A,N/A,Monitoring required,Power generation
+UN1330,Oxygen,2.2,N/A,N/A,Ventilation,Medical
+UN2195,"Helium, cryogenic",2.2,N/A,N/A,Temperature control,Medical
+UN1855,"Methyl ethyl ketone peroxide, type E",5.2,N/A,N/A,Temperature controlled - Proper ventilation required,Plastics production
+UN2049,Radioactive material,7,N/A,N/A,Shielding needed,Research
+UN1894,Mercury,6.1,III,N/A,Fatal if swallowed,Chemical production
+UN1550,"Phosphorus, stabilized",4.1,III,-60°C,Keep dry,Agriculture
+UN2175,"Environmentally hazardous, liquid",9,III,N/A,Special handling,Manufacturing
+UN1144,Rocket motor,1.3,N/A,N/A,Fire hazard,Ammunition
+UN1494,"Toluene, n.o.s.",3,II,-30°C,Flammable liquid - Emergency equipment nearby,Cleaning
+UN1576,"Phosphorus, organic",4.1,III,-20°C,Flammable solid - Proper ventilation required,Pyrotechnics
+UN2119,"Hydrochloric acid, mixture",8,III,N/A,Avoid skin contact - Segregate as per IMDG Code,Chemical production
+UN1864,Nicotine,6.1,II,N/A,Fatal if swallowed,Laboratory
+UN1304,"LPG, refrigerated",2.1,N/A,-60°C,Pressure hazard,Refrigeration
+UN1520,"Ink, containing, n.o.s.",3,II,38°C,Flammable liquid,Fuel
+UN1464,"Paint, containing",3,III,-43°C,No smoking - Segregate as per IMDG Code,Printing
+UN1803,"Benzoyl peroxide, stabilized",5.2,N/A,N/A,Thermally unstable - Proper ventilation required,Plastics production
+UN1987,"Infectious substance, unspecified, n.o.s.",6.2,N/A,N/A,Leak-proof,Research
+UN1868,Lead compound,6.1,II,N/A,Fatal if swallowed,Chemical production
+UN1288,"Methane, refrigerated",2.1,N/A,N/A,Ventilation required - Keep away from foodstuffs,Fuel
+UN1679,"Sodium, alloy",4.3,II,N/A,Emit flammable gas - Segregate as per IMDG Code,Battery manufacturing
+UN1325,"Hydrogen, refrigerated",2.1,N/A,-60°C,Highly flammable,Heating
+UN1808,"Benzoyl peroxide, type C, n.o.s.",5.2,N/A,N/A,Temperature controlled,Chemical synthesis
+UN1338,"Oxygen, liquefied, n.o.s.",2.2,N/A,N/A,Asphyxiation risk - Proper ventilation required,Welding
+UN1384,"Air, compressed, n.o.s.",2.2,N/A,N/A,Temperature control,Inert atmosphere
+UN1205,Firework,1.4,N/A,N/A,Minor hazard,Training
+UN1190,"Explosive, smokeless",1.3,N/A,N/A,Keep cool - Consult SDS for details,Military
+UN1112,Rocket,1.2,N/A,N/A,Shock-sensitive,Defense
+UN1243,Cartridge,1.4,N/A,N/A,Keep dry,Emergency signaling
+UN1538,"Nitrocellulose, wetted, n.o.s.",4.1,II,N/A,Keep dry - Consult SDS for details,Agriculture
+UN1625,"Activated carbon, n.o.s.",4.2,I,N/A,Temperature monitoring - Consult SDS for details,Manufacturing
+UN1388,"Carbon dioxide, cryogenic",2.2,N/A,N/A,Ventilation,Industrial
+UN1564,"Phosphorus, flammable, n.o.s.",4.1,III,N/A,Keep dry - Segregate as per IMDG Code,Pyrotechnics
+UN1795,"Benzoyl peroxide, n.o.s.",5.2,N/A,N/A,May explode,Polymerization
+UN1047,"Detonator, blasting, n.o.s.",1.1,N/A,N/A,Shock-sensitive,Construction
+UN1534,"Nitrocellulose, flammable",4.1,III,-20°C,Away from heat,Agriculture
+UN1710,"Potassium, n.o.s.",4.3,III,N/A,No water for fire,Battery manufacturing
+UN2114,"Sulfuric acid, corrosive",8,III,N/A,Corrosive,Chemical production
+UN1305,"Propane, mixture",2.1,N/A,-60°C,Highly flammable - Keep away from foodstuffs,Refrigeration
+UN1258,"Squib, illuminating",1.4,N/A,N/A,Keep dry,Safety
+UN1965,"Biological substance, Category B",6.2,N/A,N/A,Special packaging,Research
+UN1903,"Pesticide, liquid",6.1,I,N/A,Skin protection,Pesticide
+UN1635,"Metal powder, yellow",4.2,III,N/A,No organic material - Segregate as per IMDG Code,Industrial
+UN1734,"Sodium chlorate, n.o.s.",5.1,III,N/A,Oxidizing substance - Keep away from foodstuffs,Bleaching
+UN1604,"Coal, white",4.2,III,-60°C,No organic material - Consult SDS for details,Manufacturing
+UN1160,"Explosive, smokeless, n.o.s.",1.3,N/A,N/A,Keep cool,Military
+UN1442,"Ammonia, liquefied",2.3,N/A,N/A,Emergency procedures - Consult SDS for details,Water treatment
+UN1195,"Explosive, smokeless",1.3,N/A,N/A,Minor blast risk,Ammunition
+UN1004,Detonator,1.1,N/A,N/A,Explosive magazine required,Mining
+UN1588,Sulfur,4.1,II,-20°C,Flammable solid - Special training required,Manufacturing
+UN1284,"LPG, mixture",2.1,N/A,-20°C,No ignition sources - Proper ventilation required,Industrial
+UN1983,Biological substance,6.2,N/A,N/A,Disinfection required,Medical diagnostics
+UN2043,Radioactive material,7,N/A,N/A,Licensed transport,Industrial gauges
+UN2048,"Thorium, low specific activity",7,N/A,N/A,Shielding needed,Medical
+UN1783,"Calcium hypochlorite, fertilizer grade",5.1,III,N/A,Fire enhancement,Bleaching
+UN1146,Explosive,1.3,N/A,N/A,Fire hazard,Military
+UN1801,"Organic peroxide, type C",5.2,N/A,N/A,Temperature controlled - Proper ventilation required,Manufacturing
+UN1111,"Explosive, illuminating",1.2,N/A,N/A,Shock-sensitive - Keep away from foodstuffs,Defense
+UN1590,"Phosphorus, stabilized, n.o.s.",4.1,II,-30°C,Friction-sensitive,Manufacturing
+UN1886,"Arsenic, solution, n.o.s.",6.1,I,N/A,Toxic substance - Consult SDS for details,Manufacturing
+UN1346,Oxygen,2.2,N/A,N/A,Pressure hazard,Food preservation
+UN1735,"Hydrogen peroxide, solid",5.1,I,N/A,Fire enhancement,Disinfection
+UN1178,"Explosive, n.o.s.",1.3,N/A,N/A,Minor blast risk - Segregate as per IMDG Code,Propulsion
+UN1247,"Cartridge, smoke, n.o.s.",1.4,N/A,N/A,Keep dry,Training
+UN1400,"Ammonia, anhydrous, n.o.s.",2.3,N/A,N/A,Respiratory protection,Water treatment
+UN1711,Zinc powder,4.3,III,N/A,Keep absolutely dry,Industrial
+UN1552,"Phosphorus, wetted",4.1,I,N/A,Flammable solid - Special training required,Agriculture
+UN1712,"Aluminum powder, powder, n.o.s.",4.3,III,N/A,Emit flammable gas,Chemical production
+UN1822,"Benzoyl peroxide, type A",5.2,N/A,N/A,Refrigeration required,Manufacturing
+UN1572,"Nitrocellulose, wetted",4.1,III,-30°C,Flammable solid - Segregate as per IMDG Code,Pyrotechnics
+UN1333,"Carbon dioxide, refrigerated",2.2,N/A,N/A,Asphyxiation risk - Segregate as per IMDG Code,Welding
+UN1982,"Biological substance, animal",6.2,N/A,N/A,Leak-proof - Segregate as per IMDG Code,Veterinary
+UN1364,"Carbon dioxide, cryogenic, n.o.s.",2.2,N/A,N/A,Ventilation,Welding
+UN1142,"Explosive, primer",1.3,N/A,N/A,Fire hazard,Propulsion
+UN1860,"Strychnine, liquid, n.o.s.",6.1,III,N/A,Skin protection,Industrial
+UN1514,"Diesel, containing, n.o.s.",3,I,-30°C,Bonding/grounding required,Fuel
+UN1395,"Nitrogen, liquefied",2.2,N/A,N/A,Pressure hazard,Food preservation
+UN1727,"Calcium hypochlorite, solid",5.1,II,N/A,Away from combustibles,Chemical production
+UN1681,Calcium,4.3,III,N/A,No water for fire - Emergency equipment nearby,Metallurgy
+UN1774,Calcium hypochlorite,5.1,I,N/A,Oxidizing substance,Chemical production
+UN1176,"Propellant, smokeless, n.o.s.",1.3,N/A,N/A,Away from heat,Aerospace
+UN1151,"Explosive, primer",1.3,N/A,N/A,Keep cool - Emergency equipment nearby,Propulsion
+UN1977,"Infectious substance, Category B",6.2,N/A,N/A,Leak-proof - Emergency equipment nearby,Research
+UN1134,Rocket motor,1.3,N/A,N/A,Away from heat - Special training required,Military
+UN2153,"Genetically modified, solid, n.o.s.",9,N/A,N/A,Various hazards,Transport
+UN1078,Rocket,1.2,N/A,N/A,Shock-sensitive,Aerospace
+UN1056,Detonator,1.1,N/A,N/A,No smoking zones,Construction
+UN1491,"Diesel, flammable",3,I,-10°C,No smoking,Printing
+UN2145,"Marine pollutant, liquid",9,II,N/A,Various hazards,Research
+UN1915,"Nicotine, solid",6.1,III,N/A,Toxic substance - Proper ventilation required,Manufacturing
+UN1687,"Calcium, n.o.s.",4.3,II,N/A,No water for fire - Keep away from foodstuffs,Chemical production
+UN1278,"Propane, mixture",2.1,N/A,-60°C,Pressure hazard,Fuel
+UN2014,"Cesium, fissile",7,N/A,N/A,Licensed transport - Keep away from foodstuffs,Medical
+UN2154,"Environmentally hazardous, n.o.s.",9,N/A,N/A,Various hazards,Manufacturing
+UN1210,"Signal, illuminating",1.4,N/A,N/A,Minor hazard,Entertainment
+UN1067,"Projectile, training, n.o.s.",1.2,N/A,N/A,Projection hazard - Keep away from foodstuffs,Aerospace
+UN1917,"Strychnine, solid",6.1,III,N/A,Toxic substance,Manufacturing
+UN1603,"Phosphorus, stabilized, n.o.s.",4.2,II,N/A,Temperature monitoring - Consult SDS for details,Manufacturing
+UN1085,"Missile, inert loaded",1.2,N/A,N/A,Projection hazard - Segregate as per IMDG Code,Aerospace
+UN1837,"Organic peroxide, n.o.s.",5.2,N/A,N/A,Refrigeration required,Chemical synthesis
+UN1671,"Potassium, hydride",4.3,II,N/A,Emit flammable gas,Metallurgy
+UN1844,"Organic peroxide, type E",5.2,N/A,N/A,May explode,Polymerization
+UN1147,"Rocket motor, smokeless",1.3,N/A,N/A,Keep cool,Propulsion
+UN1130,"Warhead, practice",1.2,N/A,N/A,Projection hazard,Aerospace
+UN1723,"Sodium, hydride",4.3,I,N/A,Emit flammable gas,Battery manufacturing
+UN1579,Metal powder,4.1,III,N/A,Away from heat - Emergency equipment nearby,Manufacturing
+UN2135,Environmentally hazardous,9,II,N/A,Special handling,Manufacturing
+UN1379,Air,2.2,N/A,N/A,Ventilation,Medical
+UN1871,"Arsenic, liquid",6.1,III,N/A,Skin protection - Keep away from foodstuffs,Pesticide
+UN1911,"Lead compound, compound",6.1,II,N/A,Skin protection - Segregate as per IMDG Code,Laboratory
+UN1041,"Charge, n.o.s.",1.1,N/A,N/A,No smoking zones,Demolition
+UN1703,Calcium,4.3,I,N/A,No water for fire,Battery manufacturing
+UN1326,Methane,2.1,N/A,-20°C,Ventilation required,Industrial
+UN1074,Projectile,1.2,N/A,N/A,Projection hazard - Segregate as per IMDG Code,Aerospace
+UN1447,"Sulfur dioxide, compressed, n.o.s.",2.3,N/A,N/A,Leak detection required,Industrial
+UN1124,Explosive,1.2,N/A,N/A,Projection hazard,Military training
+UN2065,Sodium hydroxide,8,II,N/A,Corrosive,Manufacturing
+UN1398,"Sulfur dioxide, refrigerated, n.o.s.",2.3,N/A,N/A,Respiratory protection - Segregate as per IMDG Code,Chemical production
+UN1334,Carbon dioxide,2.2,N/A,N/A,Temperature control,Food preservation
+UN1809,"Organic peroxide, stabilized, n.o.s.",5.2,N/A,N/A,Thermally unstable,Chemical synthesis
+UN2122,"Environmentally hazardous, solid",9,II,N/A,Environmental protection - Emergency equipment nearby,Various industrial
+UN1602,Fishmeal,4.2,II,-30°C,No organic material,Chemical production
+UN1651,"Fishmeal, yellow, n.o.s.",4.2,I,-20°C,Protect from heat - Special training required,Agriculture
+UN1434,Carbon monoxide,2.3,N/A,N/A,Leak detection required,Industrial
+UN1518,"Paint, containing",3,III,-60°C,Flammable liquid,Solvent
+UN1742,"Potassium permanganate, oxidizing",5.1,III,N/A,Away from combustibles,Chemical production
+UN1013,Charge,1.1,N/A,N/A,Explosive magazine required,Demolition
+UN1937,"Biological substance, Category A, n.o.s.",6.2,N/A,N/A,Leak-proof - Emergency equipment nearby,Veterinary
+UN1279,"LPG, dissolved, n.o.s.",2.1,N/A,-30°C,Pressure hazard,Fuel
+UN1109,"Explosive, practice",1.2,N/A,N/A,Separation required,Military training
+UN1790,Ammonium nitrate,5.1,I,N/A,Away from combustibles,Bleaching
+UN1497,"Diesel, flammable",3,III,-43°C,Away from heat,Solvent
+UN1488,"Diesel, solution",3,II,60°C,Flammable liquid - Segregate as per IMDG Code,Coating
+UN2006,"Cesium, surface contaminated, n.o.s.",7,N/A,N/A,Licensed transport - Emergency equipment nearby,Power generation
+UN1063,"Detonator, type B, n.o.s.",1.1,N/A,N/A,Explosive magazine required - Emergency equipment nearby,Military
+UN1692,Zinc powder,4.3,III,N/A,Keep absolutely dry - Segregate as per IMDG Code,Industrial
+UN2069,"Sodium hydroxide, n.o.s.",8,II,N/A,Avoid skin contact,Manufacturing
+UN1566,"Nitrocellulose, organic",4.1,II,-30°C,Flammable solid,Pyrotechnics
+UN2142,"Environmentally hazardous, n.o.s.",9,II,N/A,Special handling,Various industrial
+UN1716,"Zinc powder, alloy",4.3,III,N/A,No water for fire,Battery manufacturing
+UN1967,"Medical waste, human, n.o.s.",6.2,N/A,N/A,Special packaging,Healthcare
+UN1778,"Calcium hypochlorite, fertilizer grade",5.1,III,N/A,Away from combustibles - Proper ventilation required,Fertilizer
+UN1386,"Nitrogen, liquefied",2.2,N/A,N/A,Ventilation,Medical
+UN1754,"Potassium permanganate, oxidizing",5.1,II,N/A,Separate from organics - Proper ventilation required,Water treatment
+UN1168,"Rocket motor, igniter",1.3,N/A,N/A,Minor blast risk - Segregate as per IMDG Code,Military
+UN1180,Propellant,1.3,N/A,N/A,Minor blast risk - Special training required,Ammunition
+UN1992,"Plutonium, Type C",7,N/A,N/A,Shielding needed - Special training required,Medical
+UN1655,"Coal, stabilized",4.2,I,-30°C,No organic material - Emergency equipment nearby,Manufacturing
+UN1537,"Sulfur, wetted",4.1,III,-20°C,Friction-sensitive,Agriculture
+UN1311,"Methane, refrigerated",2.1,N/A,-30°C,Highly flammable - Segregate as per IMDG Code,Heating
+UN1385,"Carbon dioxide, compressed",2.2,N/A,N/A,Temperature control,Industrial
+UN1083,Warhead,1.2,N/A,N/A,Projection hazard,Military training
+UN1988,"Medical waste, animal",6.2,N/A,N/A,Biohazard,Research
+UN1755,"Potassium permanganate, mixture",5.1,III,N/A,Oxidizing substance - Segregate as per IMDG Code,Disinfection
+UN1568,Sulfur,4.1,I,-60°C,Keep dry,Agriculture
+UN1575,"Phosphorus, flammable",4.1,I,N/A,Friction-sensitive,Agriculture
+UN2066,"Potassium hydroxide, corrosive",8,II,N/A,Eye protection - Keep away from foodstuffs,Cleaning
+UN1179,"Propellant, primer",1.3,N/A,N/A,Away from heat,Aerospace
+UN2050,Cesium,7,N/A,N/A,Licensed transport - Emergency equipment nearby,Research
+UN2156,"Lithium battery, n.o.s.",9,III,N/A,Various hazards,Research
+UN2007,Cesium,7,N/A,N/A,Monitoring required - Keep away from foodstuffs,Industrial gauges
+UN1316,"LPG, compressed",2.1,N/A,-30°C,No ignition sources,Heating
+UN1909,"Nicotine, liquid, n.o.s.",6.1,I,N/A,Toxic substance,Pesticide
+UN2009,"Cobalt, fissile, n.o.s.",7,N/A,N/A,Monitoring required,Research
+UN1404,"Chlorine, refrigerated",2.3,N/A,N/A,Toxic by inhalation,Industrial
+UN2032,"Radioactive material, Type A",7,N/A,N/A,Radiation hazard,Industrial gauges
+UN1431,"Hydrogen sulfide, n.o.s.",2.3,N/A,N/A,Emergency procedures - Emergency equipment nearby,Water treatment
+UN1292,"Butane, refrigerated",2.1,N/A,-30°C,Highly flammable - Keep away from foodstuffs,Refrigeration
+UN1541,"Matches, stabilized",4.1,II,N/A,Away from heat,Agriculture
+UN1450,Ammonia,2.3,N/A,N/A,Leak detection required,Water treatment
+UN1331,"Carbon dioxide, liquefied, n.o.s.",2.2,N/A,N/A,Asphyxiation risk,Medical
+UN1939,"Biological substance, animal, n.o.s.",6.2,N/A,N/A,Disinfection required,Healthcare
+UN1487,"Ink, n.o.s.",3,I,-60°C,Away from heat,Solvent
+UN1354,"Carbon dioxide, refrigerated, n.o.s.",2.2,N/A,N/A,Ventilation,Welding
+UN1997,Radioactive material,7,N/A,N/A,Radiation hazard,Industrial gauges
+UN1817,Organic peroxide,5.2,N/A,N/A,Temperature controlled,Plastics production
+UN2097,"Sulfuric acid, spent",8,I,N/A,Avoid skin contact,Water treatment
+UN1626,Phosphorus,4.2,I,-30°C,No organic material,Agriculture
+UN1749,"Potassium permanganate, oxidizing, n.o.s.",5.1,III,N/A,Oxidizing substance,Fertilizer
+UN1184,"Rocket motor, smokeless",1.3,N/A,N/A,Minor blast risk,Ammunition
+UN1672,"Zinc powder, alloy",4.3,II,N/A,No water for fire - Consult SDS for details,Industrial
+UN1204,"Firework, practice, n.o.s.",1.4,N/A,N/A,Compatible with general cargo,Emergency signaling
+UN1557,"Nitrocellulose, organic",4.1,III,-30°C,Flammable solid - Consult SDS for details,Chemical production
+UN1744,"Hydrogen peroxide, oxidizing",5.1,II,N/A,Separate from organics,Bleaching
+UN1940,"Diagnostic specimen, Category B",6.2,N/A,N/A,Biohazard - Segregate as per IMDG Code,Healthcare
+UN1430,"Sulfur dioxide, anhydrous, n.o.s.",2.3,N/A,N/A,Leak detection required,Chemical production
+UN1356,"Nitrogen, liquefied",2.2,N/A,N/A,Temperature control - Emergency equipment nearby,Welding
+UN1169,"Ammunition, primer",1.3,N/A,N/A,Fire hazard,Propulsion
+UN1495,Adhesive,3,I,13°C,Flammable liquid,Cleaning
+UN1646,"Metal powder, white",4.2,I,-30°C,Protect from heat - Special training required,Industrial
+UN1652,"Fishmeal, white",4.2,I,-60°C,Protect from heat - Consult SDS for details,Manufacturing
+UN1536,Phosphorus,4.1,I,-20°C,Friction-sensitive - Proper ventilation required,Agriculture
+UN2152,"Genetically modified, n.o.s.",9,N/A,N/A,Environmental protection - Consult SDS for details,Transport
+UN1293,"LPG, n.o.s.",2.1,N/A,-20°C,Highly flammable,Refrigeration
+UN1879,"Nicotine, preparation",6.1,III,N/A,Avoid inhalation,Industrial
+UN1623,"Phosphorus, white, n.o.s.",4.2,III,-30°C,No organic material,Manufacturing
+UN1901,"Strychnine, n.o.s.",6.1,I,N/A,Fatal if swallowed - Emergency equipment nearby,Industrial
+UN1644,"Fishmeal, pyrophoric",4.2,III,-30°C,No organic material,Manufacturing
+UN1841,"Benzoyl peroxide, n.o.s.",5.2,N/A,N/A,May explode,Manufacturing
+UN1459,"Sulfur dioxide, anhydrous, n.o.s.",2.3,N/A,N/A,Respiratory protection,Chemical production
+UN1923,"Cyanide, compound",6.1,II,N/A,Fatal if swallowed - Keep away from foodstuffs,Chemical production
+UN2151,"Marine pollutant, liquid",9,III,N/A,Various hazards - Proper ventilation required,Transport
+UN2186,"Elevated temperature, miscellaneous",9,II,N/A,Check SDS,Electronics
+UN1264,"LPG, dissolved",2.1,N/A,N/A,Highly flammable,Industrial
+UN1985,"Biological substance, Category A",6.2,N/A,N/A,Leak-proof,Medical diagnostics
+UN1192,Ammunition,1.3,N/A,N/A,Minor blast risk - Keep away from foodstuffs,Aerospace
+UN1819,"Organic peroxide, type E",5.2,N/A,N/A,Refrigeration required - Special training required,Polymerization
+UN2004,"Radioactive material, surface contaminated",7,N/A,N/A,Monitoring required - Special training required,Imaging
+UN1011,"Ammunition, military, n.o.s.",1.1,N/A,N/A,Explosive magazine required,Mining
+UN1183,Explosive,1.3,N/A,N/A,Minor blast risk,Ammunition
+UN1231,"Cartridge, practice",1.4,N/A,N/A,Compatible with general cargo,Training
+UN1016,Ammunition,1.1,N/A,N/A,No smoking zones,Mining
+UN1702,"Sodium, metal",4.3,II,N/A,Water-reactive,Metallurgy
+UN1209,"Squib, smoke",1.4,N/A,N/A,Minor hazard,Training
+UN1972,Diagnostic specimen,6.2,N/A,N/A,Leak-proof,Laboratory
+UN1390,"Argon, refrigerated",2.2,N/A,N/A,Pressure hazard,Medical
+UN1482,Toluene,3,I,60°C,Away from heat,Fuel
+UN1960,"Biological substance, unspecified",6.2,N/A,N/A,Biohazard,Research
+UN1374,"Argon, compressed, n.o.s.",2.2,N/A,N/A,Pressure hazard,Industrial
+UN1935,Diagnostic specimen,6.2,N/A,N/A,Disinfection required - Proper ventilation required,Veterinary
+UN1265,Methane,2.1,N/A,-30°C,Pressure hazard,Industrial
+UN1558,Nitrocellulose,4.1,I,N/A,Flammable solid - Emergency equipment nearby,Chemical production
+UN1759,"Potassium permanganate, n.o.s.",5.1,I,N/A,Separate from organics,Disinfection
+UN1353,"Helium, compressed, n.o.s.",2.2,N/A,N/A,Ventilation,Welding
+UN1335,"Helium, cryogenic, n.o.s.",2.2,N/A,N/A,Asphyxiation risk,Food preservation
+UN2109,"Hydrochloric acid, n.o.s.",8,II,N/A,Avoid skin contact,Water treatment
+UN1428,"Sulfur dioxide, liquefied",2.3,N/A,N/A,Respiratory protection - Special training required,Water treatment
+UN1132,"Rocket motor, igniter",1.3,N/A,N/A,Keep cool,Propulsion
+UN2113,"Sodium hydroxide, concentrated",8,I,N/A,Corrosive,Cleaning
+UN2199,"Methyl ethyl ketone peroxide, type C",5.2,N/A,N/A,May explode,Chemical synthesis
+UN1466,Toluene,3,I,-10°C,Bonding/grounding required,Fuel
+UN1308,Butane,2.1,N/A,-30°C,Pressure hazard - Emergency equipment nearby,Industrial
+UN1215,Firework,1.4,N/A,N/A,Keep dry - Emergency equipment nearby,Emergency signaling
+UN1473,"Ink, flammable",3,I,-43°C,Bonding/grounding required,Cleaning
+UN1424,"Hydrogen sulfide, compressed",2.3,N/A,N/A,Leak detection required - Segregate as per IMDG Code,Water treatment
+UN1458,Carbon monoxide,2.3,N/A,N/A,Respiratory protection,Industrial
+UN1177,"Propellant, with expelling charge, n.o.s.",1.3,N/A,N/A,Away from heat,Propulsion
+UN1996,"Radioactive material, low specific activity",7,N/A,N/A,Licensed transport,Power generation
+UN1185,"Explosive, primer",1.3,N/A,N/A,Keep cool - Emergency equipment nearby,Military
+UN1799,"Benzoyl peroxide, type D, n.o.s.",5.2,N/A,N/A,Thermally unstable - Emergency equipment nearby,Manufacturing
+UN2124,"Environmentally hazardous, liquid",9,N/A,N/A,Special handling,Transport
+UN1666,"Sodium, alloy",4.3,I,N/A,Emit flammable gas,Industrial
+UN1065,"Dynamite, shaped",1.1,N/A,N/A,Explosive magazine required,Construction
+UN1166,"Rocket motor, smokeless, n.o.s.",1.3,N/A,N/A,Away from heat - Emergency equipment nearby,Ammunition
+UN1246,"Cartridge, practice, n.o.s.",1.4,N/A,N/A,Keep dry - Segregate as per IMDG Code,Training
+UN1994,"Cobalt, fissile",7,N/A,N/A,Shielding needed - Emergency equipment nearby,Medical
+UN1554,Nitrocellulose,4.1,III,-60°C,Keep dry - Consult SDS for details,Agriculture
+UN2121,"Nitric acid, concentrated",8,III,N/A,Corrosive - Consult SDS for details,Manufacturing
+UN1598,"Fishmeal, stabilized",4.2,II,N/A,Spontaneous combustion,Manufacturing
+UN1531,Matches,4.1,I,-60°C,Friction-sensitive - Proper ventilation required,Pyrotechnics
+UN1420,"Ammonia, compressed, n.o.s.",2.3,N/A,N/A,Respiratory protection,Chemical production
+UN1087,"Missile, practice",1.2,N/A,N/A,Projection hazard - Segregate as per IMDG Code,Defense
+UN1954,"Diagnostic specimen, n.o.s.",6.2,N/A,N/A,Leak-proof - Consult SDS for details,Laboratory
+UN1970,"Medical waste, Category B",6.2,N/A,N/A,Leak-proof,Healthcare
+UN1413,"Sulfur dioxide, anhydrous",2.3,N/A,N/A,Toxic by inhalation,Industrial
+UN1796,"Organic peroxide, type F",5.2,N/A,N/A,Thermally unstable,Manufacturing
+UN1794,Methyl ethyl ketone peroxide,5.2,N/A,N/A,Temperature controlled,Manufacturing
+UN1093,"Explosive, with charge, n.o.s.",1.2,N/A,N/A,Fire risk,Aerospace
+UN1167,"Rocket motor, with expelling charge",1.3,N/A,N/A,Minor blast risk,Propulsion
+UN1768,Calcium hypochlorite,5.1,III,N/A,Fire enhancement,Fertilizer
+UN1717,"Lithium, alloy",4.3,II,N/A,No water for fire,Industrial
+UN1616,"Metal powder, n.o.s.",4.2,III,-30°C,Temperature monitoring - Proper ventilation required,Agriculture
+UN2140,"Marine pollutant, solid, n.o.s.",9,N/A,N/A,Various hazards,Various industrial
+UN1453,"Carbon monoxide, anhydrous, n.o.s.",2.3,N/A,N/A,Emergency procedures,Refrigeration
+UN2016,Cesium,7,N/A,N/A,Monitoring required - Consult SDS for details,Industrial gauges
+UN2077,"Battery acid, concentrated",8,II,N/A,Corrosive - Segregate as per IMDG Code,Manufacturing
+UN1113,"Missile, training",1.2,N/A,N/A,Projection hazard - Consult SDS for details,Defense
+UN1033,"Primer, shaped",1.1,N/A,N/A,No smoking zones,Military
+UN1371,"Air, liquefied",2.2,N/A,N/A,Temperature control,Industrial
+UN1999,"Cesium, fissile",7,N/A,N/A,Monitoring required,Imaging
+UN1920,Lead compound,6.1,III,N/A,Toxic substance,Manufacturing
+UN1628,Coal,4.2,II,-30°C,Temperature monitoring - Emergency equipment nearby,Manufacturing
+UN2126,"Lithium battery, miscellaneous, n.o.s.",9,N/A,N/A,Environmental protection,Electronics
+UN1787,"Ammonium nitrate, oxidizing",5.1,III,N/A,Separate from organics,Chemical production
+UN1438,"Carbon monoxide, n.o.s.",2.3,N/A,N/A,Toxic by inhalation,Water treatment
+UN1867,"Nicotine, solution, n.o.s.",6.1,II,N/A,Toxic substance - Segregate as per IMDG Code,Chemical production
+UN1779,"Sodium chlorate, oxidizing",5.1,III,N/A,Oxidizing substance - Segregate as per IMDG Code,Fertilizer
+UN1000,"Dynamite, shaped, n.o.s.",1.1,N/A,N/A,No smoking zones,Mining
+UN1126,"Missile, inert loaded",1.2,N/A,N/A,Projection hazard,Pyrotechnics
+UN1584,"Matches, n.o.s.",4.1,II,-20°C,Flammable solid,Chemical production
+UN1296,"Acetylene, compressed, n.o.s.",2.1,N/A,-20°C,Ventilation required - Segregate as per IMDG Code,Heating
+UN2073,Nitric acid,8,II,N/A,Severe burns,Chemical production
+UN2045,"Radioactive material, Type A",7,N/A,N/A,Radiation hazard,Medical
+UN1266,"Hydrogen, compressed",2.1,N/A,-60°C,No ignition sources,Industrial
+UN1048,"TNT, shaped",1.1,N/A,N/A,Maximum segregation - Emergency equipment nearby,Quarrying
+UN1402,Phosgene,2.3,N/A,N/A,Toxic by inhalation - Keep away from foodstuffs,Chemical production
+UN1928,Clinical waste,6.2,N/A,N/A,Disinfection required - Emergency equipment nearby,Laboratory
+UN1921,Arsenic,6.1,I,N/A,Toxic substance,Manufacturing
+UN1345,"Nitrogen, compressed",2.2,N/A,N/A,Asphyxiation risk,Industrial
+UN2064,"Nitric acid, diluted",8,II,N/A,Corrosive - Special training required,Chemical production
+UN1562,"Nitrocellulose, stabilized, n.o.s.",4.1,III,-60°C,Keep dry,Agriculture
+UN1240,Flare,1.4,N/A,N/A,Minor hazard,Emergency signaling
+UN1432,Ammonia,2.3,N/A,N/A,Emergency procedures - Consult SDS for details,Water treatment
+UN1493,"Adhesive, containing, n.o.s.",3,III,38°C,Flammable liquid - Consult SDS for details,Solvent
+UN1433,"Chlorine, compressed",2.3,N/A,N/A,Emergency procedures,Refrigeration
+UN1222,"Signal, hand",1.4,N/A,N/A,Compatible with general cargo - Keep away from foodstuffs,Emergency signaling
+UN1547,"Sulfur, wetted",4.1,II,N/A,Friction-sensitive - Keep away from foodstuffs,Chemical production
+UN1412,"Carbon monoxide, n.o.s.",2.3,N/A,N/A,Emergency procedures,Refrigeration
+UN1261,"Squib, smoke",1.4,N/A,N/A,Keep dry,Training
+UN1137,Propellant,1.3,N/A,N/A,Keep cool,Aerospace
+UN1811,Organic peroxide,5.2,N/A,N/A,May explode - Keep away from foodstuffs,Plastics production
+UN1653,"Activated carbon, stabilized",4.2,I,-20°C,Protect from heat - Keep away from foodstuffs,Chemical production
+UN1594,"Activated carbon, stabilized",4.2,I,-30°C,No organic material,Chemical production
+UN1411,"Ammonia, refrigerated",2.3,N/A,N/A,Leak detection required,Industrial
+UN1891,"Strychnine, compound",6.1,II,N/A,Toxic substance - Emergency equipment nearby,Industrial
+UN1032,Detonator,1.1,N/A,N/A,No smoking zones - Proper ventilation required,Quarrying
+UN2092,"Hydrochloric acid, mixture",8,II,N/A,Corrosive,Manufacturing
+UN1793,"Benzoyl peroxide, type F",5.2,N/A,N/A,Thermally unstable,Polymerization
+UN1006,"TNT, military",1.1,N/A,N/A,No smoking zones,Military
+UN1523,"Gasoline, containing",3,III,-60°C,Bonding/grounding required,Solvent
+UN1905,"Mercury, n.o.s.",6.1,III,N/A,Toxic substance,Chemical production
+UN1609,Activated carbon,4.2,II,N/A,Protect from heat,Industrial
+UN1686,"Calcium, hydride",4.3,I,N/A,Emit flammable gas,Chemical production
+UN1309,"Hydrogen, n.o.s.",2.1,N/A,-20°C,Pressure hazard,Refrigeration
+UN2033,"Cesium, Type C",7,N/A,N/A,Licensed transport,Industrial gauges
+UN1445,"Hydrogen sulfide, compressed",2.3,N/A,N/A,Leak detection required,Water treatment
+UN1097,"Warhead, practice, n.o.s.",1.2,N/A,N/A,Separation required,Military training
+UN1232,"Firework, practice",1.4,N/A,N/A,Minor hazard,Safety
+UN1510,Toluene,3,II,0°C,Flammable liquid,Coating
+UN1765,"Potassium permanganate, solution",5.1,I,N/A,Away from combustibles,Water treatment
+UN1530,"Phosphorus, organic",4.1,II,N/A,Away from heat - Keep away from foodstuffs,Manufacturing
+UN1993,"Cesium, Type B",7,N/A,N/A,Shielding needed,Industrial gauges
+UN1118,"Warhead, inert loaded",1.2,N/A,N/A,Separation required,Defense
+UN1015,Charge,1.1,N/A,N/A,Shock-sensitive - Emergency equipment nearby,Mining
+UN2046,"Radioactive material, fissile",7,N/A,N/A,Monitoring required - Special training required,Industrial gauges
+UN1724,"Lithium, alloy",4.3,III,N/A,Water-reactive,Industrial
+UN1378,Nitrogen,2.2,N/A,N/A,Asphyxiation risk - Keep away from foodstuffs,Food preservation
+UN2067,Hydrochloric acid,8,I,N/A,Eye protection - Consult SDS for details,Battery
+UN1745,"Sodium chlorate, solution",5.1,II,N/A,Oxidizing substance - Keep away from foodstuffs,Water treatment
+UN2015,"Thorium, Type C",7,N/A,N/A,Monitoring required,Power generation
+UN1099,"Rocket, n.o.s.",1.2,N/A,N/A,Separation required - Keep away from foodstuffs,Military training
+UN1287,"Methane, dissolved, n.o.s.",2.1,N/A,N/A,Pressure hazard - Special training required,Heating
+UN2179,"Marine pollutant, n.o.s.",9,N/A,N/A,Environmental protection - Proper ventilation required,Research
+UN1777,"Hydrogen peroxide, mixture, n.o.s.",5.1,I,N/A,Oxidizing substance,Disinfection
+UN1337,"Helium, liquefied",2.2,N/A,N/A,Pressure hazard,Inert atmosphere
+UN1729,"Sodium chlorate, solid",5.1,I,N/A,Separate from organics,Chemical production
+UN1317,"LPG, mixture",2.1,N/A,N/A,Ventilation required - Consult SDS for details,Industrial
+UN1591,"Nitrocellulose, stabilized",4.1,III,-20°C,Keep dry,Agriculture
+UN2000,"Uranium, surface contaminated",7,N/A,N/A,Monitoring required,Imaging
+UN1355,"Helium, compressed",2.2,N/A,N/A,Temperature control - Emergency equipment nearby,Industrial
+UN1102,"Projectile, with charge",1.2,N/A,N/A,Separation required,Defense
+UN1239,Cartridge,1.4,N/A,N/A,Keep dry,Entertainment
+UN1945,"Diagnostic specimen, Category A",6.2,N/A,N/A,Disinfection required,Medical diagnostics
+UN1705,Sodium,4.3,III,N/A,Emit flammable gas,Battery manufacturing
+UN2090,"Sulfuric acid, diluted, n.o.s.",8,I,N/A,Severe burns - Special training required,Water treatment
+UN1760,"Ammonium nitrate, n.o.s.",5.1,I,N/A,Separate from organics,Chemical production
+UN1153,"Propellant, with expelling charge, n.o.s.",1.3,N/A,N/A,Keep cool,Aerospace
+UN1571,"Matches, organic",4.1,III,-30°C,Keep dry,Manufacturing
+UN1636,"Phosphorus, stabilized",4.2,III,N/A,Protect from heat,Chemical production
+UN1680,Sodium,4.3,III,N/A,Emit flammable gas - Keep away from foodstuffs,Metallurgy
+UN2080,"Battery acid, mixture",8,II,N/A,Corrosive,Chemical production
+UN2108,"Nitric acid, n.o.s.",8,III,N/A,Severe burns,Chemical production
+UN1229,"Firework, smoke, n.o.s.",1.4,N/A,N/A,Keep dry,Safety
+UN1423,"Hydrogen sulfide, anhydrous",2.3,N/A,N/A,Respiratory protection - Segregate as per IMDG Code,Chemical production
+UN1926,"Infectious substance, Category A",6.2,N/A,N/A,Disinfection required,Research
+UN1500,"Solvent, containing",3,III,23°C,No smoking - Emergency equipment nearby,Manufacturing
+UN1121,"Explosive, illuminating",1.2,N/A,N/A,Fire risk - Segregate as per IMDG Code,Defense
+UN1039,"Dynamite, shaped, n.o.s.",1.1,N/A,N/A,No smoking zones,Military
+UN2039,"Radioactive material, surface contaminated",7,N/A,N/A,Monitoring required - Proper ventilation required,Power generation
+UN2174,Marine pollutant,9,II,N/A,Check SDS - Emergency equipment nearby,Research
+UN2025,"Plutonium, surface contaminated",7,N/A,N/A,Monitoring required,Research
+UN1303,"Ethane, mixture, n.o.s.",2.1,N/A,N/A,Ventilation required,Refrigeration
+UN1630,"Phosphorus, stabilized",4.2,I,N/A,Temperature monitoring - Keep away from foodstuffs,Chemical production
+UN1932,"Medical waste, human",6.2,N/A,N/A,Leak-proof,Medical diagnostics
+UN2021,"Uranium, low specific activity",7,N/A,N/A,Radiation hazard,Industrial gauges
+UN1251,"Firework, illuminating",1.4,N/A,N/A,Minor hazard,Safety
+UN2169,"Environmentally hazardous, miscellaneous",9,II,N/A,Environmental protection,Transport
+UN1044,"TNT, type A",1.1,N/A,N/A,Shock-sensitive - Consult SDS for details,Demolition
+UN1207,"Flare, hand",1.4,N/A,N/A,Keep dry,Entertainment
+UN2147,Lithium battery,9,III,N/A,Various hazards,Electronics
+UN1381,"Argon, n.o.s.",2.2,N/A,N/A,Ventilation,Inert atmosphere
+UN2132,Environmentally hazardous,9,II,N/A,Check SDS,Research
+UN1347,Helium,2.2,N/A,N/A,Asphyxiation risk,Medical
+UN2161,Genetically modified,9,II,N/A,Special handling,Transport
+UN1027,"Detonator, military",1.1,N/A,N/A,Maximum segregation,Mining
+UN1100,"Rocket, inert loaded",1.2,N/A,N/A,Projection hazard,Defense
+UN1771,Calcium hypochlorite,5.1,II,N/A,Separate from organics,Fertilizer
+UN1441,"Phosgene, n.o.s.",2.3,N/A,N/A,Toxic by inhalation,Refrigeration
+UN1846,"Methyl ethyl ketone peroxide, type D",5.2,N/A,N/A,May explode,Chemical synthesis
+UN1133,"Rocket motor, n.o.s.",1.3,N/A,N/A,Away from heat - Special training required,Propulsion
+UN1208,"Firework, smoke",1.4,N/A,N/A,Minor hazard - Consult SDS for details,Emergency signaling
+UN1631,"Activated carbon, stabilized",4.2,III,-60°C,Protect from heat,Manufacturing
+UN1181,"Rocket motor, igniter",1.3,N/A,N/A,Away from heat,Propulsion
+UN1553,"Nitrocellulose, self-reactive",4.1,I,-60°C,Keep dry - Emergency equipment nearby,Pyrotechnics
+UN2091,"Potassium hydroxide, n.o.s.",8,I,N/A,Eye protection,Chemical production
+UN1068,"Projectile, n.o.s.",1.2,N/A,N/A,Shock-sensitive,Pyrotechnics
+UN2106,"Potassium hydroxide, corrosive, n.o.s.",8,III,N/A,Severe burns - Special training required,Water treatment
+UN1010,"Detonator, military",1.1,N/A,N/A,No smoking zones,Military
+UN1627,"Metal powder, yellow, n.o.s.",4.2,I,-60°C,Spontaneous combustion,Manufacturing
+UN1341,Helium,2.2,N/A,N/A,Asphyxiation risk,Welding
+UN2078,"Sulfuric acid, diluted",8,III,N/A,Eye protection - Emergency equipment nearby,Chemical production
+UN1532,"Sulfur, wetted, n.o.s.",4.1,I,-20°C,Flammable solid,Pyrotechnics
+UN2072,"Potassium hydroxide, corrosive, n.o.s.",8,I,N/A,Avoid skin contact - Proper ventilation required,Chemical production
+UN1693,"Sodium, powder, n.o.s.",4.3,I,N/A,No water for fire,Industrial
+UN1503,Ink,3,II,13°C,Away from heat - Consult SDS for details,Solvent
+UN1312,"Hydrogen, dissolved",2.1,N/A,-20°C,Ventilation required - Keep away from foodstuffs,Refrigeration
+UN2136,Environmentally hazardous,9,N/A,N/A,Special handling,Manufacturing
+UN1348,"Air, cryogenic",2.2,N/A,N/A,Asphyxiation risk,Industrial
+UN1722,"Aluminum powder, hydride",4.3,III,N/A,No water for fire,Chemical production
+UN1320,Propane,2.1,N/A,-20°C,Ventilation required - Keep away from foodstuffs,Industrial
+UN1516,"Diesel, n.o.s.",3,I,55°C,No smoking,Fuel
+UN1028,"Charge, type A, n.o.s.",1.1,N/A,N/A,Explosive magazine required,Quarrying
+UN1171,"Rocket motor, igniter",1.3,N/A,N/A,Fire hazard,Military
+UN1023,"Explosive, commercial, n.o.s.",1.1,N/A,N/A,Explosive magazine required,Military
+UN1352,"Oxygen, refrigerated",2.2,N/A,N/A,Asphyxiation risk,Medical
+UN1674,"Potassium, n.o.s.",4.3,I,N/A,No water for fire - Keep away from foodstuffs,Metallurgy
+UN1362,"Argon, compressed",2.2,N/A,N/A,Temperature control - Segregate as per IMDG Code,Industrial
+UN1974,"Clinical waste, animal",6.2,N/A,N/A,Biohazard - Keep away from foodstuffs,Laboratory
+UN1829,"Methyl ethyl ketone peroxide, type C, n.o.s.",5.2,N/A,N/A,May explode - Emergency equipment nearby,Chemical synthesis
+UN1115,Projectile,1.2,N/A,N/A,Fire risk - Consult SDS for details,Defense
+UN2093,"Potassium hydroxide, spent",8,I,N/A,Severe burns,Battery
+UN1522,"Paint, flammable",3,III,-20°C,Away from heat,Coating
+UN2104,Sodium hydroxide,8,III,N/A,Severe burns - Emergency equipment nearby,Water treatment
+UN1752,"Calcium hypochlorite, fertilizer grade",5.1,I,N/A,Away from combustibles - Emergency equipment nearby,Bleaching
+UN1544,"Metal powder, wetted",4.1,I,-20°C,Away from heat,Manufacturing
+UN2041,"Cesium, surface contaminated, n.o.s.",7,N/A,N/A,Monitoring required,Imaging
+UN1971,"Infectious substance, animal, n.o.s.",6.2,N/A,N/A,Leak-proof,Veterinary
+UN1643,"Coal, yellow",4.2,III,-20°C,Protect from heat,Industrial
+UN1471,"Ink, flammable",3,I,-10°C,Flammable liquid - Special training required,Coating
+UN1091,"Warhead, practice, n.o.s.",1.2,N/A,N/A,Separation required,Military training
+UN1826,Methyl ethyl ketone peroxide,5.2,N/A,N/A,May explode - Segregate as per IMDG Code,Manufacturing
+UN1435,"Phosgene, n.o.s.",2.3,N/A,N/A,Emergency procedures,Industrial
+UN1227,"Cartridge, practice, n.o.s.",1.4,N/A,N/A,Keep dry,Safety
+UN1321,"Ethane, refrigerated",2.1,N/A,-20°C,Pressure hazard,Refrigeration
+UN1596,Activated carbon,4.2,II,-60°C,Temperature monitoring,Industrial
+UN1410,Phosgene,2.3,N/A,N/A,Toxic by inhalation,Industrial
+UN1595,Metal powder,4.2,III,-30°C,No organic material,Chemical production
+UN1051,"Primer, commercial",1.1,N/A,N/A,Explosive magazine required,Mining
+UN1228,"Squib, practice",1.4,N/A,N/A,Compatible with general cargo - Keep away from foodstuffs,Training
+UN1726,"Hydrogen peroxide, oxidizing",5.1,III,N/A,Separate from organics,Bleaching
+UN1319,"Propane, n.o.s.",2.1,N/A,-60°C,No ignition sources,Industrial
+UN2190,"Ammonia, refrigerated",2.3,N/A,N/A,Leak detection required,Chemical production
+UN1250,"Cartridge, practice",1.4,N/A,N/A,Keep dry - Segregate as per IMDG Code,Safety
+UN1950,"Biological substance, Category B",6.2,N/A,N/A,Biohazard - Proper ventilation required,Medical diagnostics
+UN2172,"Lithium battery, solid",9,N/A,N/A,Environmental protection,Manufacturing
+UN1367,Carbon dioxide,2.2,N/A,N/A,Temperature control - Keep away from foodstuffs,Inert atmosphere
+UN1718,"Zinc powder, mixture",4.3,III,N/A,Keep absolutely dry - Special training required,Battery manufacturing
+UN2054,"Plutonium, Type C",7,N/A,N/A,Monitoring required,Industrial gauges
+UN1098,"Missile, with charge, n.o.s.",1.2,N/A,N/A,Shock-sensitive - Segregate as per IMDG Code,Aerospace
+UN1480,"Ethanol, n.o.s.",3,I,38°C,Away from heat,Printing
+UN1624,"Activated carbon, stabilized, n.o.s.",4.2,I,-60°C,Spontaneous combustion - Proper ventilation required,Manufacturing
+UN1024,"TNT, commercial",1.1,N/A,N/A,Explosive magazine required - Consult SDS for details,Quarrying
+UN1397,Hydrogen sulfide,2.3,N/A,N/A,Respiratory protection - Special training required,Refrigeration
+UN1740,"Potassium permanganate, solution",5.1,I,N/A,Separate from organics,Disinfection
+UN1918,"Mercury, liquid",6.1,I,N/A,Avoid inhalation - Special training required,Pesticide
+UN1758,"Sodium chlorate, solution, n.o.s.",5.1,II,N/A,Away from combustibles,Bleaching
+UN2141,Marine pollutant,9,II,N/A,Check SDS - Emergency equipment nearby,Various industrial
+UN1563,"Matches, self-reactive, n.o.s.",4.1,I,-20°C,Away from heat,Agriculture
+UN1746,"Ammonium nitrate, solid",5.1,II,N/A,Oxidizing substance - Proper ventilation required,Fertilizer
+UN1784,"Sodium chlorate, fertilizer grade, n.o.s.",5.1,III,N/A,Fire enhancement,Fertilizer
+UN1828,"Methyl ethyl ketone peroxide, type B, n.o.s.",5.2,N/A,N/A,Thermally unstable,Manufacturing
+UN1241,Flare,1.4,N/A,N/A,Keep dry,Entertainment
+UN1709,"Aluminum powder, hydride, n.o.s.",4.3,I,N/A,No water for fire,Chemical production
+UN1678,"Calcium, mixture",4.3,II,N/A,Emit flammable gas - Consult SDS for details,Metallurgy
+UN1054,"Primer, shaped",1.1,N/A,N/A,Explosive magazine required - Special training required,Mining
+UN1647,"Coal, self-heating",4.2,I,-20°C,No organic material,Chemical production
+UN1014,"Primer, commercial",1.1,N/A,N/A,Explosive magazine required,Military
+UN1418,Sulfur dioxide,2.3,N/A,N/A,Emergency procedures - Proper ventilation required,Water treatment
+UN2076,"Potassium hydroxide, solution",8,III,N/A,Corrosive - Segregate as per IMDG Code,Cleaning
+UN2040,"Cobalt, surface contaminated",7,N/A,N/A,Monitoring required,Research
+UN1574,"Phosphorus, organic",4.1,I,N/A,Flammable solid,Chemical production
+UN1313,"LPG, mixture",2.1,N/A,-20°C,Ventilation required - Segregate as per IMDG Code,Heating
+UN1849,Benzoyl peroxide,5.2,N/A,N/A,May explode,Plastics production
+UN1295,"Hydrogen, liquefied",2.1,N/A,-60°C,No ignition sources - Segregate as per IMDG Code,Heating
+UN1269,"Hydrogen, refrigerated",2.1,N/A,-30°C,Ventilation required,Fuel
+UN2170,"Elevated temperature, n.o.s.",9,III,N/A,Check SDS - Special training required,Transport
+UN1285,"Propane, refrigerated",2.1,N/A,N/A,Pressure hazard,Welding
+UN1003,"TNT, commercial",1.1,N/A,N/A,Maximum segregation - Emergency equipment nearby,Military
+UN1549,"Metal powder, flammable",4.1,III,-60°C,Away from heat,Manufacturing
+UN1070,Missile,1.2,N/A,N/A,Fire risk - Emergency equipment nearby,Pyrotechnics
+UN1732,"Calcium hypochlorite, fertilizer grade, n.o.s.",5.1,II,N/A,Oxidizing substance,Bleaching
+UN2183,Lithium battery,9,N/A,N/A,Various hazards - Proper ventilation required,Various industrial
+UN1071,"Missile, n.o.s.",1.2,N/A,N/A,Projection hazard,Military training
+UN1329,"Methane, mixture",2.1,N/A,N/A,Highly flammable,Industrial
+UN2059,"Battery acid, solution, n.o.s.",8,II,N/A,Avoid skin contact,Chemical production
+UN1212,Cartridge,1.4,N/A,N/A,Minor hazard,Training
+UN1820,Benzoyl peroxide,5.2,N/A,N/A,May explode - Segregate as per IMDG Code,Polymerization
+UN1959,"Biological substance, Category B",6.2,N/A,N/A,Disinfection required,Laboratory
+UN1876,"Arsenic, compound",6.1,III,N/A,Fatal if swallowed,Pesticide
+UN1262,"Flare, hand",1.4,N/A,N/A,Keep dry - Special training required,Emergency signaling
+UN1117,"Missile, with charge",1.2,N/A,N/A,Shock-sensitive - Consult SDS for details,Pyrotechnics
+UN1463,Methanol,3,I,60°C,No smoking,Fuel
+UN2075,Nitric acid,8,III,N/A,Corrosive,Cleaning
+UN1155,"Explosive, primer",1.3,N/A,N/A,Fire hazard - Keep away from foodstuffs,Propulsion
+UN1670,"Sodium, powder",4.3,II,N/A,Water-reactive - Segregate as per IMDG Code,Industrial
+UN2182,"Elevated temperature, containing",9,II,N/A,Various hazards - Proper ventilation required,Transport
+UN2198,"Charge, with burster",1.1,N/A,N/A,Maximum segregation,Demolition
+UN1172,"Propellant, primer",1.3,N/A,N/A,Away from heat - Special training required,Ammunition
+UN1122,Rocket,1.2,N/A,N/A,Projection hazard,Military training
+UN2134,"Environmentally hazardous, n.o.s.",9,N/A,N/A,Check SDS,Electronics
+UN1058,"TNT, with burster",1.1,N/A,N/A,Shock-sensitive,Mining
+UN1224,"Signal, hand",1.4,N/A,N/A,Keep dry,Entertainment
+UN1223,"Cartridge, blank, n.o.s.",1.4,N/A,N/A,Compatible with general cargo,Safety
+UN1369,"Carbon dioxide, refrigerated, n.o.s.",2.2,N/A,N/A,Asphyxiation risk,Inert atmosphere
+UN1975,"Infectious substance, n.o.s.",6.2,N/A,N/A,Leak-proof,Veterinary
+UN1854,"Methyl ethyl ketone peroxide, stabilized",5.2,N/A,N/A,May explode - Emergency equipment nearby,Manufacturing
+UN1612,"Phosphorus, pyrophoric, n.o.s.",4.2,I,-30°C,Temperature monitoring,Industrial
+UN2155,"Elevated temperature, containing",9,III,N/A,Environmental protection,Research
+UN1449,Phosgene,2.3,N/A,N/A,Emergency procedures - Emergency equipment nearby,Industrial
+UN1540,"Nitrocellulose, stabilized",4.1,I,-20°C,Away from heat,Agriculture
+UN2125,"Elevated temperature, solid, n.o.s.",9,N/A,N/A,Check SDS,Manufacturing
+UN1129,"Rocket, n.o.s.",1.2,N/A,N/A,Fire risk - Proper ventilation required,Defense
+UN1007,"Explosive, with burster",1.1,N/A,N/A,Maximum segregation - Segregate as per IMDG Code,Demolition
+UN1439,Carbon monoxide,2.3,N/A,N/A,Emergency procedures,Refrigeration
+UN1629,"Metal powder, self-heating",4.2,III,-30°C,Temperature monitoring,Manufacturing
+UN1815,"Benzoyl peroxide, type D",5.2,N/A,N/A,May explode,Chemical synthesis
+UN1738,"Calcium hypochlorite, n.o.s.",5.1,II,N/A,Separate from organics,Fertilizer
+UN1645,"Metal powder, self-heating",4.2,III,-60°C,Protect from heat - Proper ventilation required,Agriculture
+UN1416,"Sulfur dioxide, refrigerated",2.3,N/A,N/A,Respiratory protection,Industrial
+UN2185,Lithium battery,9,N/A,N/A,Various hazards,Electronics
+UN1899,"Strychnine, compound",6.1,III,N/A,Avoid inhalation,Industrial
+UN1157,"Ammunition, smokeless",1.3,N/A,N/A,Away from heat,Aerospace
+UN2103,"Sodium hydroxide, n.o.s.",8,I,N/A,Avoid skin contact,Battery
+UN1600,"Fishmeal, stabilized",4.2,II,-20°C,Spontaneous combustion - Segregate as per IMDG Code,Chemical production
+UN1897,"Arsenic, solution",6.1,I,N/A,Avoid inhalation,Industrial
+UN1533,Matches,4.1,II,N/A,Friction-sensitive,Manufacturing
+UN1358,"Carbon dioxide, liquefied",2.2,N/A,N/A,Ventilation,Industrial
+UN2110,Sodium hydroxide,8,II,N/A,Eye protection - Proper ventilation required,Cleaning
+UN1893,"Arsenic, solution, n.o.s.",6.1,II,N/A,Avoid inhalation,Laboratory
+UN2098,"Hydrochloric acid, concentrated",8,III,N/A,Eye protection,Chemical production
+UN1123,"Rocket, practice",1.2,N/A,N/A,Shock-sensitive,Defense
+UN1511,"Paint, mixture, n.o.s.",3,I,-60°C,Away from heat,Fuel
+UN1862,Mercury,6.1,I,N/A,Skin protection - Emergency equipment nearby,Manufacturing
+UN1664,"Lithium, powder, n.o.s.",4.3,II,N/A,Keep absolutely dry - Keep away from foodstuffs,Battery manufacturing
+UN1976,Clinical waste,6.2,N/A,N/A,Disinfection required,Healthcare
+UN1910,Nicotine,6.1,III,N/A,Skin protection,Industrial
+UN1108,Warhead,1.2,N/A,N/A,Fire risk,Military training
+UN1380,Carbon dioxide,2.2,N/A,N/A,Ventilation,Industrial
+UN1030,Ammunition,1.1,N/A,N/A,No smoking zones,Demolition
+UN1951,"Infectious substance, human",6.2,N/A,N/A,Biohazard,Medical diagnostics
+UN1830,Benzoyl peroxide,5.2,N/A,N/A,Refrigeration required,Chemical synthesis
+UN1406,"Ammonia, refrigerated, n.o.s.",2.3,N/A,N/A,Toxic by inhalation - Special training required,Chemical production
+UN1619,Activated carbon,4.2,I,-20°C,Temperature monitoring,Manufacturing
+UN1448,"Carbon monoxide, refrigerated",2.3,N/A,N/A,Toxic by inhalation,Industrial
+UN1452,"Chlorine, anhydrous",2.3,N/A,N/A,Emergency procedures - Emergency equipment nearby,Water treatment
+UN1650,"Fishmeal, pyrophoric",4.2,II,-30°C,Temperature monitoring,Agriculture
+UN1408,Phosgene,2.3,N/A,N/A,Respiratory protection,Refrigeration
+UN1792,"Methyl ethyl ketone peroxide, n.o.s.",5.2,N/A,N/A,Refrigeration required - Emergency equipment nearby,Chemical synthesis
+UN1361,"Helium, liquefied, n.o.s.",2.2,N/A,N/A,Ventilation,Medical
+UN1327,"Hydrogen, refrigerated, n.o.s.",2.1,N/A,-60°C,Highly flammable - Proper ventilation required,Heating
+UN1391,Helium,2.2,N/A,N/A,Pressure hazard,Welding
+UN1701,"Sodium, mixture",4.3,I,N/A,Water-reactive,Industrial
+UN1053,"TNT, military",1.1,N/A,N/A,Shock-sensitive,Quarrying
+UN1017,Detonator,1.1,N/A,N/A,Explosive magazine required - Consult SDS for details,Quarrying
+UN2146,"Genetically modified, miscellaneous",9,II,N/A,Check SDS - Special training required,Manufacturing
+UN1318,"Propane, n.o.s.",2.1,N/A,-20°C,Pressure hazard - Keep away from foodstuffs,Heating
+UN2017,"Thorium, n.o.s.",7,N/A,N/A,Monitoring required,Industrial gauges
+UN1924,"Biological substance, animal, n.o.s.",6.2,N/A,N/A,Biohazard - Proper ventilation required,Veterinary
+UN1887,"Cyanide, preparation",6.1,I,N/A,Avoid inhalation,Manufacturing
+UN1064,"TNT, type A, n.o.s.",1.1,N/A,N/A,No smoking zones,Mining
+UN1810,Benzoyl peroxide,5.2,N/A,N/A,Refrigeration required - Segregate as per IMDG Code,Chemical synthesis
+UN2031,"Uranium, surface contaminated",7,N/A,N/A,Licensed transport,Medical
+UN1060,"Detonator, type A",1.1,N/A,N/A,No smoking zones,Mining
+UN1507,"Ink, containing",3,I,-60°C,Bonding/grounding required - Keep away from foodstuffs,Coating
+UN1842,"Methyl ethyl ketone peroxide, type A",5.2,N/A,N/A,Refrigeration required,Plastics production
+UN2056,"Hydrochloric acid, corrosive",8,I,N/A,Corrosive - Keep away from foodstuffs,Battery
+UN1839,Organic peroxide,5.2,N/A,N/A,May explode,Plastics production
+UN1019,"Explosive, type B, n.o.s.",1.1,N/A,N/A,Maximum segregation,Military
+UN1302,"Ethane, n.o.s.",2.1,N/A,-20°C,Pressure hazard - Consult SDS for details,Fuel
+UN1376,"Carbon dioxide, liquefied, n.o.s.",2.2,N/A,N/A,Asphyxiation risk - Emergency equipment nearby,Medical
+UN1931,"Infectious substance, Category B",6.2,N/A,N/A,Disinfection required,Healthcare
+UN1512,"Adhesive, n.o.s., n.o.s.",3,I,23°C,Flammable liquid - Emergency equipment nearby,Fuel
+UN1851,Benzoyl peroxide,5.2,N/A,N/A,Thermally unstable - Special training required,Manufacturing
+UN1110,"Missile, illuminating",1.2,N/A,N/A,Fire risk,Aerospace
+UN1218,"Signal, practice",1.4,N/A,N/A,Minor hazard,Training
+UN2139,"Genetically modified, containing, n.o.s.",9,II,N/A,Special handling - Proper ventilation required,Electronics
+UN1193,Explosive,1.3,N/A,N/A,Minor blast risk,Military
+UN1256,"Squib, n.o.s.",1.4,N/A,N/A,Compatible with general cargo,Emergency signaling
+UN1301,"Ethane, refrigerated",2.1,N/A,N/A,Pressure hazard - Consult SDS for details,Industrial
+UN1769,"Ammonium nitrate, fertilizer grade",5.1,I,N/A,Fire enhancement,Disinfection
+UN1750,"Potassium permanganate, fertilizer grade",5.1,III,N/A,Away from combustibles - Consult SDS for details,Fertilizer
+UN1145,"Rocket motor, primer",1.3,N/A,N/A,Fire hazard,Ammunition
+UN1551,"Nitrocellulose, organic",4.1,II,-20°C,Keep dry - Keep away from foodstuffs,Pyrotechnics
+UN1084,"Missile, with charge, n.o.s.",1.2,N/A,N/A,Separation required - Special training required,Military training
+UN1297,"Acetylene, compressed, n.o.s.",2.1,N/A,-30°C,Pressure hazard,Heating
+UN2035,"Cobalt, Type A, n.o.s.",7,N/A,N/A,Monitoring required - Proper ventilation required,Medical
+UN1958,"Diagnostic specimen, Category B, n.o.s.",6.2,N/A,N/A,Disinfection required,Medical diagnostics
+UN1912,"Arsenic, solution",6.1,I,N/A,Fatal if swallowed,Industrial
+UN1908,"Arsenic, solid",6.1,II,N/A,Avoid inhalation,Pesticide
+UN1008,"Ammunition, with burster",1.1,N/A,N/A,Maximum segregation,Construction
+UN1199,"Signal, hand",1.4,N/A,N/A,Keep dry,Safety
+UN1421,"Hydrogen sulfide, n.o.s.",2.3,N/A,N/A,Leak detection required - Consult SDS for details,Water treatment
+UN1138,"Ammunition, n.o.s.",1.3,N/A,N/A,Away from heat - Proper ventilation required,Aerospace
+UN1608,"Coal, pyrophoric, n.o.s.",4.2,I,-20°C,Protect from heat,Manufacturing
+UN1061,"Primer, n.o.s.",1.1,N/A,N/A,No smoking zones - Emergency equipment nearby,Demolition
+UN2083,"Sulfuric acid, concentrated",8,II,N/A,Severe burns - Special training required,Manufacturing
+UN1902,"Cyanide, preparation, n.o.s.",6.1,III,N/A,Fatal if swallowed - Special training required,Laboratory
+UN1682,Lithium,4.3,III,N/A,No water for fire - Segregate as per IMDG Code,Battery manufacturing
+UN1688,"Sodium, metal",4.3,III,N/A,Keep absolutely dry,Chemical production
+UN1237,"Flare, smoke, n.o.s.",1.4,N/A,N/A,Keep dry,Emergency signaling
+UN1973,"Clinical waste, human",6.2,N/A,N/A,Special packaging,Research
+UN1658,Phosphorus,4.2,I,N/A,Protect from heat,Agriculture
+UN1283,"Acetylene, dissolved",2.1,N/A,-20°C,Highly flammable,Fuel
+UN1474,"Ink, flammable, n.o.s.",3,III,-60°C,Flammable liquid,Printing
+UN1139,"Ammunition, igniter",1.3,N/A,N/A,Keep cool,Propulsion
+UN1002,"TNT, type A",1.1,N/A,N/A,Shock-sensitive,Quarrying
+UN1038,"Explosive, commercial, n.o.s.",1.1,N/A,N/A,Explosive magazine required,Quarrying
+UN1885,Pesticide,6.1,I,N/A,Avoid inhalation,Chemical production
+UN1517,"Ink, mixture, n.o.s.",3,II,55°C,Away from heat,Fuel
+UN1585,"Phosphorus, organic",4.1,III,-20°C,Flammable solid - Special training required,Pyrotechnics
+UN2116,"Sulfuric acid, n.o.s.",8,I,N/A,Corrosive,Manufacturing
+UN1697,"Zinc powder, alloy, n.o.s.",4.3,I,N/A,Emit flammable gas,Metallurgy
+UN1770,Ammonium nitrate,5.1,I,N/A,Away from combustibles,Water treatment
+UN2037,Cobalt,7,N/A,N/A,Monitoring required - Segregate as per IMDG Code,Medical
+UN1731,"Hydrogen peroxide, solution",5.1,III,N/A,Separate from organics,Bleaching
+UN1775,"Ammonium nitrate, solution",5.1,I,N/A,Fire enhancement,Fertilizer
+UN1748,"Calcium hypochlorite, mixture, n.o.s.",5.1,II,N/A,Away from combustibles - Segregate as per IMDG Code,Fertilizer
+UN1282,"Butane, compressed",2.1,N/A,N/A,No ignition sources,Fuel
+UN1806,"Methyl ethyl ketone peroxide, type B, n.o.s.",5.2,N/A,N/A,Thermally unstable,Polymerization
+UN1634,"Coal, yellow",4.2,I,-30°C,Protect from heat - Proper ventilation required,Manufacturing
+UN1225,"Firework, smoke",1.4,N/A,N/A,Keep dry,Entertainment
+UN1689,"Calcium, metal",4.3,I,N/A,Emit flammable gas - Special training required,Chemical production
+UN1456,"Hydrogen sulfide, anhydrous",2.3,N/A,N/A,Toxic by inhalation,Water treatment
+UN1633,"Metal powder, pyrophoric",4.2,I,-20°C,No organic material,Chemical production
+UN1143,"Rocket motor, primer, n.o.s.",1.3,N/A,N/A,Fire hazard,Ammunition
+UN1831,Methyl ethyl ketone peroxide,5.2,N/A,N/A,May explode,Polymerization
+UN1034,"Explosive, shaped",1.1,N/A,N/A,Explosive magazine required - Consult SDS for details,Quarrying
+UN2082,"Hydrochloric acid, spent",8,III,N/A,Severe burns,Manufacturing
+UN2018,"Uranium, fissile",7,N/A,N/A,Radiation hazard,Imaging
+UN2163,"Elevated temperature, liquid",9,N/A,N/A,Special handling - Special training required,Electronics
+UN1578,"Nitrocellulose, flammable, n.o.s.",4.1,III,-30°C,Away from heat,Pyrotechnics
+UN2117,"Potassium hydroxide, solution",8,I,N/A,Severe burns,Cleaning
+UN1081,"Rocket, practice",1.2,N/A,N/A,Projection hazard,Military training
+UN1668,"Zinc powder, metal",4.3,I,N/A,Keep absolutely dry - Keep away from foodstuffs,Metallurgy
+UN1300,Methane,2.1,N/A,-20°C,Pressure hazard,Industrial
+UN1322,"Ethane, n.o.s.",2.1,N/A,-20°C,Pressure hazard - Special training required,Heating
+UN1991,"Cesium, fissile, n.o.s.",7,N/A,N/A,Licensed transport - Consult SDS for details,Imaging
+UN1399,"Phosgene, anhydrous",2.3,N/A,N/A,Toxic by inhalation - Emergency equipment nearby,Chemical production
+UN1486,"Ink, solution",3,II,23°C,Bonding/grounding required - Consult SDS for details,Fuel
+UN1394,"Helium, refrigerated",2.2,N/A,N/A,Pressure hazard,Industrial
+UN2184,"Marine pollutant, solid, n.o.s.",9,III,N/A,Various hazards,Transport
+UN1873,"Pesticide, solid",6.1,I,N/A,Toxic substance - Keep away from foodstuffs,Manufacturing
+UN1730,Sodium chlorate,5.1,I,N/A,Separate from organics - Emergency equipment nearby,Bleaching
+UN1713,Sodium,4.3,III,N/A,Keep absolutely dry,Battery manufacturing
+UN1942,"Medical waste, Category B, n.o.s.",6.2,N/A,N/A,Biohazard - Special training required,Healthcare
+UN1833,Methyl ethyl ketone peroxide,5.2,N/A,N/A,Refrigeration required,Plastics production
+UN1573,"Metal powder, flammable",4.1,I,N/A,Away from heat - Emergency equipment nearby,Pyrotechnics
+UN1857,"Benzoyl peroxide, type F, n.o.s.",5.2,N/A,N/A,Thermally unstable - Proper ventilation required,Manufacturing
+UN1366,"Argon, compressed, n.o.s.",2.2,N/A,N/A,Temperature control - Special training required,Food preservation
+UN2100,"Hydrochloric acid, solution",8,I,N/A,Corrosive - Keep away from foodstuffs,Chemical production
+UN1848,"Benzoyl peroxide, type C",5.2,N/A,N/A,May explode - Consult SDS for details,Plastics production
+UN2149,"Elevated temperature, miscellaneous, n.o.s.",9,N/A,N/A,Check SDS - Proper ventilation required,Research
+UN2107,"Sulfuric acid, solution",8,III,N/A,Avoid skin contact - Segregate as per IMDG Code,Chemical production
+UN1214,"Flare, practice",1.4,N/A,N/A,Compatible with general cargo,Entertainment
+UN1508,"Methanol, containing, n.o.s.",3,III,55°C,Flammable liquid,Cleaning
+UN1483,"Adhesive, flammable, n.o.s.",3,III,23°C,Away from heat,Cleaning
+UN2196,"Ink, solution",3,II,-60°C,Bonding/grounding required,Manufacturing
+UN2020,Radioactive material,7,N/A,N/A,Monitoring required,Imaging
+UN1863,"Arsenic, liquid",6.1,I,N/A,Avoid inhalation,Manufacturing
+UN1045,"Dynamite, n.o.s.",1.1,N/A,N/A,No smoking zones,Construction
+UN1419,"Phosgene, refrigerated, n.o.s.",2.3,N/A,N/A,Respiratory protection,Refrigeration
+UN1938,"Biological substance, unspecified",6.2,N/A,N/A,Special packaging,Healthcare
+UN1883,"Pesticide, compound",6.1,III,N/A,Fatal if swallowed,Laboratory
+UN1187,"Explosive, smokeless",1.3,N/A,N/A,Away from heat,Propulsion
+UN2029,"Plutonium, surface contaminated",7,N/A,N/A,Licensed transport - Consult SDS for details,Research
+UN1545,"Metal powder, self-reactive",4.1,II,-60°C,Away from heat,Chemical production
+UN1031,"Dynamite, with burster",1.1,N/A,N/A,Explosive magazine required,Military
+UN1220,"Firework, n.o.s.",1.4,N/A,N/A,Keep dry,Emergency signaling
+UN1106,"Explosive, with charge, n.o.s.",1.2,N/A,N/A,Separation required - Emergency equipment nearby,Defense
+UN1350,"Nitrogen, liquefied",2.2,N/A,N/A,Pressure hazard,Welding
+UN1813,"Organic peroxide, type A, n.o.s.",5.2,N/A,N/A,Refrigeration required - Keep away from foodstuffs,Chemical synthesis
+UN1583,"Phosphorus, self-reactive",4.1,I,N/A,Flammable solid - Segregate as per IMDG Code,Chemical production
+UN1690,Aluminum powder,4.3,II,N/A,Emit flammable gas,Chemical production
+UN1245,"Flare, blank, n.o.s.",1.4,N/A,N/A,Minor hazard - Consult SDS for details,Training
+UN1925,"Biological substance, human, n.o.s.",6.2,N/A,N/A,Special packaging,Laboratory
+UN1148,"Ammunition, igniter",1.3,N/A,N/A,Minor blast risk,Ammunition
+UN1673,"Calcium, hydride",4.3,III,N/A,Water-reactive - Proper ventilation required,Metallurgy
+UN1964,"Diagnostic specimen, unspecified, n.o.s.",6.2,N/A,N/A,Leak-proof,Veterinary
+UN2157,"Marine pollutant, liquid",9,N/A,N/A,Check SDS - Proper ventilation required,Transport
+UN2129,"Lithium battery, n.o.s.",9,III,N/A,Check SDS - Proper ventilation required,Transport
+UN1560,Nitrocellulose,4.1,II,-60°C,Away from heat,Manufacturing
+UN1189,Explosive,1.3,N/A,N/A,Minor blast risk - Emergency equipment nearby,Propulsion
+UN1805,"Benzoyl peroxide, type A, n.o.s.",5.2,N/A,N/A,May explode - Proper ventilation required,Plastics production
+UN1090,"Projectile, illuminating",1.2,N/A,N/A,Projection hazard - Consult SDS for details,Pyrotechnics
+UN2181,"Environmentally hazardous, n.o.s.",9,II,N/A,Environmental protection,Research
+UN1128,Missile,1.2,N/A,N/A,Shock-sensitive,Aerospace
+UN1513,"Gasoline, n.o.s.",3,I,38°C,Bonding/grounding required - Special training required,Cleaning
+UN1029,"Primer, with burster, n.o.s.",1.1,N/A,N/A,Shock-sensitive,Quarrying
+UN1436,"Hydrogen sulfide, anhydrous",2.3,N/A,N/A,Respiratory protection,Refrigeration
+UN1066,"Missile, practice",1.2,N/A,N/A,Fire risk,Aerospace
+UN1968,Diagnostic specimen,6.2,N/A,N/A,Special packaging,Healthcare
+UN1096,"Projectile, inert loaded",1.2,N/A,N/A,Shock-sensitive,Defense
+UN2044,"Thorium, surface contaminated, n.o.s.",7,N/A,N/A,Radiation hazard,Research
+UN1786,"Calcium hypochlorite, fertilizer grade",5.1,I,N/A,Oxidizing substance,Fertilizer
+UN1026,"Detonator, type A",1.1,N/A,N/A,Explosive magazine required - Keep away from foodstuffs,Demolition
+UN1838,"Benzoyl peroxide, type A",5.2,N/A,N/A,May explode,Manufacturing
+UN1952,"Medical waste, animal",6.2,N/A,N/A,Disinfection required - Segregate as per IMDG Code,Veterinary
+UN1567,"Sulfur, organic",4.1,II,-60°C,Friction-sensitive,Pyrotechnics
+UN1764,Ammonium nitrate,5.1,III,N/A,Away from combustibles,Water treatment
+UN1161,"Rocket motor, igniter, n.o.s.",1.3,N/A,N/A,Fire hazard,Ammunition
+UN1640,Fishmeal,4.2,II,-60°C,Protect from heat - Segregate as per IMDG Code,Industrial
+UN1662,"Aluminum powder, powder, n.o.s.",4.3,I,N/A,Water-reactive,Chemical production
+UN1694,"Sodium, metal, n.o.s.",4.3,III,N/A,Emit flammable gas,Industrial
+UN1476,"Gasoline, solution",3,II,-60°C,No smoking,Cleaning
+UN1878,"Strychnine, liquid",6.1,III,N/A,Toxic substance - Segregate as per IMDG Code,Chemical production
+UN1614,"Metal powder, yellow",4.2,II,N/A,Spontaneous combustion - Special training required,Manufacturing
+UN1890,Arsenic,6.1,I,N/A,Avoid inhalation - Segregate as per IMDG Code,Manufacturing
+UN1788,"Potassium permanganate, oxidizing",5.1,II,N/A,Oxidizing substance,Chemical production
+UN1092,"Explosive, with charge, n.o.s.",1.2,N/A,N/A,Shock-sensitive - Segregate as per IMDG Code,Aerospace
+UN1174,"Explosive, igniter, n.o.s.",1.3,N/A,N/A,Away from heat - Emergency equipment nearby,Military
+UN2001,"Plutonium, Type A, n.o.s.",7,N/A,N/A,Licensed transport,Imaging
+UN1073,Projectile,1.2,N/A,N/A,Shock-sensitive,Aerospace
+UN1865,Arsenic,6.1,I,N/A,Skin protection,Pesticide
+UN1088,Warhead,1.2,N/A,N/A,Separation required,Defense
+UN1548,Sulfur,4.1,II,-20°C,Flammable solid - Segregate as per IMDG Code,Chemical production
+UN1141,"Explosive, n.o.s.",1.3,N/A,N/A,Minor blast risk,Aerospace
+UN2133,"Environmentally hazardous, solid",9,III,N/A,Check SDS,Research
+UN1957,Clinical waste,6.2,N/A,N/A,Biohazard - Keep away from foodstuffs,Veterinary
+UN2192,"Cyanide, preparation",6.1,III,N/A,Skin protection,Chemical production
+UN1654,"Activated carbon, pyrophoric",4.2,II,-20°C,Spontaneous combustion,Agriculture
+UN1468,Ethanol,3,I,0°C,Bonding/grounding required - Special training required,Manufacturing
+UN1824,"Methyl ethyl ketone peroxide, stabilized",5.2,N/A,N/A,Temperature controlled,Manufacturing
+UN1966,"Biological substance, Category A",6.2,N/A,N/A,Disinfection required,Veterinary
+UN1946,"Medical waste, Category B",6.2,N/A,N/A,Biohazard,Veterinary
+UN1949,"Diagnostic specimen, animal",6.2,N/A,N/A,Special packaging - Segregate as per IMDG Code,Healthcare
+UN1816,"Methyl ethyl ketone peroxide, type C",5.2,N/A,N/A,Thermally unstable - Emergency equipment nearby,Manufacturing
+UN1927,Medical waste,6.2,N/A,N/A,Special packaging,Research
+UN1340,"Air, n.o.s.",2.2,N/A,N/A,Temperature control,Industrial
+UN1393,"Nitrogen, liquefied, n.o.s.",2.2,N/A,N/A,Temperature control,Medical
+UN1046,"Charge, military",1.1,N/A,N/A,Explosive magazine required,Military
+UN1025,"Ammunition, with burster, n.o.s.",1.1,N/A,N/A,Shock-sensitive,Quarrying
+UN1733,"Calcium hypochlorite, n.o.s.",5.1,II,N/A,Separate from organics - Keep away from foodstuffs,Fertilizer
+UN1505,"Toluene, n.o.s.",3,III,-10°C,Bonding/grounding required - Emergency equipment nearby,Coating
+UN1521,"Methanol, mixture, n.o.s.",3,II,13°C,No smoking,Fuel
+UN1273,"Hydrogen, n.o.s.",2.1,N/A,N/A,Ventilation required,Heating
+UN2193,"Rocket motor, primer",1.3,N/A,N/A,Minor blast risk,Aerospace
+UN1785,"Calcium hypochlorite, mixture",5.1,I,N/A,Oxidizing substance,Water treatment
+UN1943,Diagnostic specimen,6.2,N/A,N/A,Leak-proof,Research
+UN2138,"Lithium battery, liquid, n.o.s.",9,II,N/A,Check SDS - Keep away from foodstuffs,Transport
+UN1519,"Solvent, solution",3,I,-10°C,Away from heat - Emergency equipment nearby,Fuel
+UN1528,"Nitrocellulose, flammable",4.1,I,-30°C,Flammable solid,Agriculture
+UN2102,"Sodium hydroxide, corrosive",8,III,N/A,Corrosive,Battery
+UN1906,Nicotine,6.1,I,N/A,Avoid inhalation,Manufacturing
+UN1152,"Propellant, smokeless",1.3,N/A,N/A,Keep cool,Aerospace
+UN1936,Medical waste,6.2,N/A,N/A,Biohazard,Healthcare
+UN2177,"Elevated temperature, solid",9,N/A,N/A,Environmental protection,Electronics
+UN2144,"Lithium battery, containing",9,II,N/A,Various hazards,Transport
+UN2178,"Environmentally hazardous, solid",9,II,N/A,Environmental protection,Manufacturing
+UN1800,Methyl ethyl ketone peroxide,5.2,N/A,N/A,Thermally unstable - Consult SDS for details,Plastics production
+UN2176,"Genetically modified, n.o.s.",9,III,N/A,Special handling,Research
+UN2094,"Nitric acid, diluted, n.o.s.",8,I,N/A,Avoid skin contact,Manufacturing
+UN1907,"Strychnine, n.o.s.",6.1,II,N/A,Fatal if swallowed - Consult SDS for details,Manufacturing
+UN1632,"Fishmeal, white",4.2,II,-60°C,Temperature monitoring,Manufacturing
+UN1375,Argon,2.2,N/A,N/A,Asphyxiation risk,Industrial
+UN1737,"Potassium permanganate, n.o.s.",5.1,III,N/A,Fire enhancement - Segregate as per IMDG Code,Bleaching
+UN1847,"Organic peroxide, type A, n.o.s.",5.2,N/A,N/A,Refrigeration required - Emergency equipment nearby,Chemical synthesis
+UN2191,"Propellant, with expelling charge",1.3,N/A,N/A,Fire hazard,Military
+UN2095,"Sodium hydroxide, solution",8,III,N/A,Eye protection,Chemical production
+UN1677,"Zinc powder, alloy",4.3,III,N/A,No water for fire - Special training required,Metallurgy
+UN1529,"Sulfur, wetted, n.o.s.",4.1,II,-60°C,Friction-sensitive,Pyrotechnics
+UN1373,"Helium, cryogenic",2.2,N/A,N/A,Asphyxiation risk - Proper ventilation required,Industrial
+UN1094,"Rocket, n.o.s.",1.2,N/A,N/A,Fire risk - Emergency equipment nearby,Aerospace
+UN1720,Calcium,4.3,I,N/A,No water for fire - Consult SDS for details,Chemical production
+UN1107,"Missile, with charge",1.2,N/A,N/A,Separation required - Consult SDS for details,Aerospace
+UN1621,Coal,4.2,II,N/A,Temperature monitoring - Consult SDS for details,Manufacturing
+UN1372,Helium,2.2,N/A,N/A,Pressure hazard - Emergency equipment nearby,Food preservation
+UN1642,"Activated carbon, pyrophoric",4.2,II,-60°C,Spontaneous combustion,Manufacturing
+UN1667,"Zinc powder, hydride, n.o.s.",4.3,II,N/A,No water for fire,Metallurgy
+UN1254,"Cartridge, practice, n.o.s.",1.4,N/A,N/A,Compatible with general cargo - Consult SDS for details,Safety
+UN2055,"Thorium, surface contaminated",7,N/A,N/A,Shielding needed - Keep away from foodstuffs,Imaging
+UN1131,"Warhead, with charge",1.2,N/A,N/A,Shock-sensitive,Defense
+UN1601,"Phosphorus, white, n.o.s.",4.2,I,-20°C,Spontaneous combustion - Segregate as per IMDG Code,Agriculture
+UN1401,"Ammonia, compressed, n.o.s.",2.3,N/A,N/A,Leak detection required - Proper ventilation required,Water treatment
+UN2188,"Methanol, flammable",3,I,-43°C,Away from heat,Manufacturing
+UN1955,"Diagnostic specimen, Category A",6.2,N/A,N/A,Disinfection required,Veterinary
+UN1665,Sodium,4.3,I,N/A,Keep absolutely dry,Metallurgy
+UN1116,"Warhead, illuminating",1.2,N/A,N/A,Projection hazard,Pyrotechnics
+UN1343,Argon,2.2,N/A,N/A,Pressure hazard - Segregate as per IMDG Code,Industrial
+UN1188,"Rocket motor, igniter",1.3,N/A,N/A,Away from heat,Ammunition
+UN1980,"Diagnostic specimen, human",6.2,N/A,N/A,Disinfection required,Medical diagnostics
+UN2112,"Sodium hydroxide, diluted, n.o.s.",8,II,N/A,Severe burns - Proper ventilation required,Chemical production
+UN1451,"Carbon monoxide, refrigerated",2.3,N/A,N/A,Toxic by inhalation,Water treatment
+UN2052,"Radioactive material, Type C",7,N/A,N/A,Radiation hazard,Power generation
+UN2137,"Elevated temperature, solid",9,II,N/A,Special handling,Transport
+UN1509,"Gasoline, solution",3,I,-60°C,Bonding/grounding required - Proper ventilation required,Coating
+UN1417,"Sulfur dioxide, refrigerated",2.3,N/A,N/A,Respiratory protection - Special training required,Chemical production
+UN2027,"Plutonium, fissile, n.o.s.",7,N/A,N/A,Radiation hazard,Power generation
+UN1683,"Aluminum powder, metal",4.3,I,N/A,Emit flammable gas - Special training required,Metallurgy
+UN1499,Ethanol,3,III,-43°C,No smoking - Special training required,Solvent
+UN1149,"Rocket motor, with expelling charge",1.3,N/A,N/A,Fire hazard - Segregate as per IMDG Code,Propulsion
+UN1049,Ammunition,1.1,N/A,N/A,Explosive magazine required,Construction
+UN2194,"Uranium, surface contaminated",7,N/A,N/A,Monitoring required,Research
+UN1182,"Rocket motor, smokeless",1.3,N/A,N/A,Away from heat - Segregate as per IMDG Code,Military
+UN1776,"Hydrogen peroxide, oxidizing",5.1,I,N/A,Fire enhancement,Chemical production
+UN1874,"Pesticide, solid",6.1,III,N/A,Fatal if swallowed - Keep away from foodstuffs,Industrial
+UN1069,Missile,1.2,N/A,N/A,Projection hazard,Pyrotechnics
+UN1455,"Phosgene, liquefied, n.o.s.",2.3,N/A,N/A,Respiratory protection,Refrigeration
+UN1280,"Methane, refrigerated",2.1,N/A,-30°C,Ventilation required - Emergency equipment nearby,Heating
+UN1685,"Aluminum powder, mixture",4.3,III,N/A,Water-reactive,Chemical production
+UN1882,Strychnine,6.1,II,N/A,Skin protection,Chemical production
+UN2165,Marine pollutant,9,II,N/A,Various hazards - Segregate as per IMDG Code,Manufacturing
+UN2127,"Lithium battery, n.o.s.",9,N/A,N/A,Check SDS,Manufacturing
+UN1290,"Butane, n.o.s.",2.1,N/A,N/A,Highly flammable,Fuel
+UN1492,"Methanol, containing",3,III,-43°C,Bonding/grounding required,Coating
+UN1834,"Benzoyl peroxide, type F",5.2,N/A,N/A,May explode,Polymerization
+UN1103,Rocket,1.2,N/A,N/A,Shock-sensitive,Defense
+UN2096,"Sulfuric acid, concentrated, n.o.s.",8,I,N/A,Severe burns - Keep away from foodstuffs,Battery
+UN1969,"Clinical waste, n.o.s.",6.2,N/A,N/A,Leak-proof - Segregate as per IMDG Code,Healthcare
+UN1263,"Squib, practice",1.4,N/A,N/A,Minor hazard,Entertainment
+UN1581,"Phosphorus, stabilized",4.1,I,-20°C,Away from heat - Emergency equipment nearby,Manufacturing
+UN1870,"Lead compound, liquid",6.1,II,N/A,Fatal if swallowed,Laboratory
+UN1546,"Matches, stabilized",4.1,I,N/A,Keep dry - Keep away from foodstuffs,Pyrotechnics
+UN1875,"Arsenic, liquid, n.o.s.",6.1,I,N/A,Toxic substance,Industrial
+UN2120,"Hydrochloric acid, concentrated",8,II,N/A,Corrosive,Water treatment
+UN2028,Thorium,7,N/A,N/A,Radiation hazard,Power generation
+UN1484,Solvent,3,II,-10°C,No smoking,Manufacturing
+UN1984,"Biological substance, Category A",6.2,N/A,N/A,Disinfection required,Laboratory
+UN1821,"Methyl ethyl ketone peroxide, type C",5.2,N/A,N/A,May explode,Manufacturing
+UN1696,"Potassium, hydride",4.3,II,N/A,Keep absolutely dry - Proper ventilation required,Battery manufacturing
+UN1953,"Diagnostic specimen, animal",6.2,N/A,N/A,Leak-proof - Proper ventilation required,Research
+UN1170,Ammunition,1.3,N/A,N/A,Keep cool,Ammunition
+UN1277,Methane,2.1,N/A,N/A,Pressure hazard - Emergency equipment nearby,Welding
+UN1753,"Calcium hypochlorite, oxidizing, n.o.s.",5.1,III,N/A,Away from combustibles - Keep away from foodstuffs,Fertilizer
+UN2160,Environmentally hazardous,9,III,N/A,Environmental protection,Electronics
+UN1675,"Lithium, metal",4.3,I,N/A,Keep absolutely dry - Consult SDS for details,Metallurgy
+UN1274,Propane,2.1,N/A,-20°C,Highly flammable - Keep away from foodstuffs,Industrial
+UN1845,"Organic peroxide, type D",5.2,N/A,N/A,May explode - Segregate as per IMDG Code,Manufacturing
+UN1856,"Organic peroxide, type D",5.2,N/A,N/A,Temperature controlled - Consult SDS for details,Polymerization
+UN1036,"Ammunition, military",1.1,N/A,N/A,Maximum segregation,Mining
+UN1306,Butane,2.1,N/A,-60°C,No ignition sources,Fuel
+UN1485,"Adhesive, n.o.s.",3,I,38°C,No smoking,Fuel
+UN1747,"Sodium chlorate, oxidizing, n.o.s.",5.1,II,N/A,Oxidizing substance - Keep away from foodstuffs,Bleaching
+UN1895,Arsenic,6.1,III,N/A,Fatal if swallowed,Laboratory
+UN1216,"Flare, smoke",1.4,N/A,N/A,Compatible with general cargo,Safety
+UN1460,Sulfur dioxide,2.3,N/A,N/A,Emergency procedures - Proper ventilation required,Refrigeration
+UN1504,"Ethanol, n.o.s.",3,II,-60°C,No smoking,Fuel
+UN1592,"Metal powder, organic",4.1,II,-60°C,Away from heat - Segregate as per IMDG Code,Manufacturing
+UN1691,Potassium,4.3,II,N/A,Emit flammable gas,Industrial
+UN1050,"TNT, shaped, n.o.s.",1.1,N/A,N/A,Maximum segregation,Quarrying
+UN1461,"Carbon monoxide, compressed",2.3,N/A,N/A,Toxic by inhalation,Water treatment
+UN1255,"Signal, smoke, n.o.s.",1.4,N/A,N/A,Compatible with general cargo,Emergency signaling
+UN1577,"Matches, self-reactive",4.1,II,-30°C,Keep dry,Pyrotechnics
+UN1328,"Methane, compressed",2.1,N/A,-20°C,No ignition sources,Heating
+UN1197,"Ammunition, primer",1.3,N/A,N/A,Fire hazard,Military
+UN1377,Oxygen,2.2,N/A,N/A,Pressure hazard,Inert atmosphere
+UN1797,Organic peroxide,5.2,N/A,N/A,May explode - Segregate as per IMDG Code,Plastics production
+UN2057,"Sulfuric acid, n.o.s.",8,I,N/A,Corrosive,Cleaning
+UN1739,"Potassium permanganate, mixture",5.1,II,N/A,Oxidizing substance,Chemical production
+UN2105,"Sulfuric acid, diluted",8,I,N/A,Severe burns,Water treatment
+UN1236,"Signal, hand",1.4,N/A,N/A,Minor hazard,Entertainment
+UN1249,"Flare, illuminating",1.4,N/A,N/A,Keep dry,Emergency signaling
+UN1869,"Lead compound, preparation, n.o.s.",6.1,III,N/A,Avoid inhalation - Keep away from foodstuffs,Industrial
+UN1242,"Signal, hand",1.4,N/A,N/A,Minor hazard,Entertainment
+UN1639,"Metal powder, self-heating",4.2,III,N/A,Temperature monitoring,Agriculture
+UN1082,"Warhead, practice",1.2,N/A,N/A,Separation required,Pyrotechnics
+UN2026,"Uranium, fissile",7,N/A,N/A,Licensed transport,Medical
+UN1502,"Toluene, solution, n.o.s.",3,II,55°C,No smoking,Fuel
+UN1271,Butane,2.1,N/A,-60°C,Pressure hazard,Industrial
+UN1526,Diesel,3,III,-10°C,Flammable liquid,Fuel
+UN1481,"Ethanol, n.o.s.",3,II,-43°C,Bonding/grounding required,Manufacturing
+UN1396,Ammonia,2.3,N/A,N/A,Toxic by inhalation - Segregate as per IMDG Code,Industrial
+UN1020,"Detonator, type A",1.1,N/A,N/A,Maximum segregation,Mining
+UN1429,"Phosgene, compressed",2.3,N/A,N/A,Leak detection required,Water treatment
+UN1022,"TNT, type B, n.o.s.",1.1,N/A,N/A,Shock-sensitive,Construction
+UN1202,Flare,1.4,N/A,N/A,Compatible with general cargo,Entertainment
+UN2036,"Radioactive material, surface contaminated",7,N/A,N/A,Monitoring required,Research
+UN1040,"Charge, with burster",1.1,N/A,N/A,Maximum segregation - Special training required,Demolition
+UN2111,"Hydrochloric acid, mixture, n.o.s.",8,I,N/A,Eye protection,Manufacturing
+UN1294,Methane,2.1,N/A,-30°C,No ignition sources - Keep away from foodstuffs,Industrial
+UN2099,"Hydrochloric acid, mixture, n.o.s.",8,I,N/A,Severe burns,Water treatment
+UN1998,"Plutonium, Type A",7,N/A,N/A,Shielding needed - Emergency equipment nearby,Industrial gauges
+UN1535,"Metal powder, stabilized, n.o.s.",4.1,I,-30°C,Keep dry - Proper ventilation required,Pyrotechnics
+UN1233,"Squib, hand",1.4,N/A,N/A,Keep dry,Training
+UN1095,"Missile, practice",1.2,N/A,N/A,Separation required - Consult SDS for details,Pyrotechnics
+UN1586,Metal powder,4.1,II,-30°C,Away from heat,Agriculture
+UN2158,"Elevated temperature, n.o.s.",9,N/A,N/A,Check SDS,Manufacturing
+UN1941,"Diagnostic specimen, Category A",6.2,N/A,N/A,Leak-proof,Research
+UN1707,Lithium,4.3,II,N/A,No water for fire - Keep away from foodstuffs,Industrial
+UN1052,"Dynamite, commercial, n.o.s.",1.1,N/A,N/A,Shock-sensitive,Quarrying
+UN1661,"Potassium, mixture, n.o.s.",4.3,II,N/A,Keep absolutely dry - Proper ventilation required,Industrial
+UN1539,"Nitrocellulose, wetted",4.1,I,-60°C,Friction-sensitive,Manufacturing
+UN1238,"Cartridge, blank",1.4,N/A,N/A,Compatible with general cargo,Training
+UN1159,"Propellant, with expelling charge",1.3,N/A,N/A,Fire hazard,Aerospace
+UN1892,"Arsenic, compound",6.1,II,N/A,Toxic substance,Laboratory
+UN1324,"Hydrogen, liquefied, n.o.s.",2.1,N/A,N/A,Ventilation required,Welding
+UN1933,Biological substance,6.2,N/A,N/A,Disinfection required,Research
+UN1888,"Nicotine, mixture, n.o.s.",6.1,II,N/A,Toxic substance,Manufacturing
+UN2042,"Cobalt, fissile",7,N/A,N/A,Monitoring required - Proper ventilation required,Medical
+UN1191,"Rocket motor, with expelling charge, n.o.s.",1.3,N/A,N/A,Minor blast risk,Military
+UN1656,"Activated carbon, pyrophoric, n.o.s.",4.2,I,-60°C,Temperature monitoring,Agriculture
+UN1807,"Benzoyl peroxide, type E, n.o.s.",5.2,N/A,N/A,May explode - Segregate as per IMDG Code,Polymerization
+UN1660,"Potassium, metal, n.o.s.",4.3,II,N/A,Keep absolutely dry - Segregate as per IMDG Code,Industrial
+UN1979,Diagnostic specimen,6.2,N/A,N/A,Leak-proof,Medical diagnostics
+UN1669,"Lithium, alloy",4.3,III,N/A,Keep absolutely dry,Metallurgy
+UN1314,"Acetylene, n.o.s.",2.1,N/A,N/A,No ignition sources,Fuel
+UN1440,"Chlorine, n.o.s.",2.3,N/A,N/A,Leak detection required - Proper ventilation required,Water treatment
+UN1704,Zinc powder,4.3,III,N/A,No water for fire,Chemical production
+UN1076,"Warhead, practice",1.2,N/A,N/A,Separation required - Special training required,Defense
+UN1613,"Coal, white, n.o.s.",4.2,I,-60°C,Spontaneous combustion,Chemical production
+UN1359,"Argon, n.o.s.",2.2,N/A,N/A,Temperature control - Consult SDS for details,Industrial
+UN1001,"Charge, commercial, n.o.s.",1.1,N/A,N/A,Shock-sensitive,Quarrying
+UN2084,"Sodium hydroxide, mixture, n.o.s.",8,II,N/A,Corrosive,Water treatment
+UN2164,"Environmentally hazardous, solid",9,N/A,N/A,Environmental protection - Keep away from foodstuffs,Electronics
+UN2079,"Hydrochloric acid, n.o.s.",8,II,N/A,Severe burns,Chemical production
+UN1140,"Propellant, smokeless",1.3,N/A,N/A,Fire hazard - Keep away from foodstuffs,Ammunition
+UN1135,Ammunition,1.3,N/A,N/A,Fire hazard,Aerospace
+UN1866,"Mercury, n.o.s.",6.1,III,N/A,Skin protection,Industrial
+UN1217,Flare,1.4,N/A,N/A,Compatible with general cargo,Entertainment
+UN1403,"Carbon monoxide, n.o.s.",2.3,N/A,N/A,Toxic by inhalation,Chemical production
+UN1663,"Aluminum powder, n.o.s.",4.3,III,N/A,Emit flammable gas - Special training required,Battery manufacturing
+UN1542,"Nitrocellulose, wetted",4.1,III,-20°C,Keep dry,Agriculture
+UN2074,"Hydrochloric acid, concentrated",8,III,N/A,Eye protection,Manufacturing
+UN1409,"Carbon monoxide, liquefied",2.3,N/A,N/A,Leak detection required - Segregate as per IMDG Code,Chemical production
+UN2087,"Potassium hydroxide, n.o.s.",8,II,N/A,Severe burns,Manufacturing
+UN1260,"Firework, n.o.s.",1.4,N/A,N/A,Compatible with general cargo,Entertainment
+UN1472,"Diesel, solution",3,II,60°C,No smoking,Cleaning
+UN1814,"Methyl ethyl ketone peroxide, type D, n.o.s.",5.2,N/A,N/A,Thermally unstable,Polymerization
+UN1165,Ammunition,1.3,N/A,N/A,Fire hazard,Propulsion
+UN1589,"Matches, organic, n.o.s.",4.1,III,-30°C,Away from heat,Chemical production
+UN1035,Ammunition,1.1,N/A,N/A,Maximum segregation,Construction
+UN1818,"Organic peroxide, type B",5.2,N/A,N/A,Thermally unstable - Emergency equipment nearby,Chemical synthesis
+UN1479,"Toluene, n.o.s.",3,II,23°C,Flammable liquid,Fuel
+UN2053,"Thorium, n.o.s.",7,N/A,N/A,Monitoring required,Research
+UN1475,"Toluene, solution",3,III,60°C,Bonding/grounding required,Manufacturing
+UN1872,Arsenic,6.1,II,N/A,Fatal if swallowed,Manufacturing
+UN1782,Ammonium nitrate,5.1,III,N/A,Fire enhancement - Keep away from foodstuffs,Chemical production
+UN1234,"Firework, hand, n.o.s.",1.4,N/A,N/A,Minor hazard,Emergency signaling
+UN1719,Sodium,4.3,II,N/A,Emit flammable gas - Emergency equipment nearby,Chemical production
+UN1211,"Signal, n.o.s.",1.4,N/A,N/A,Minor hazard,Emergency signaling
+UN1150,"Ammunition, smokeless, n.o.s.",1.3,N/A,N/A,Minor blast risk - Special training required,Propulsion
+UN1489,"Acetone, containing",3,II,-30°C,No smoking - Keep away from foodstuffs,Printing
+UN2060,"Hydrochloric acid, solution",8,III,N/A,Avoid skin contact,Cleaning
+UN1275,"Methane, refrigerated, n.o.s.",2.1,N/A,-20°C,Pressure hazard,Fuel
+UN1323,"Butane, compressed",2.1,N/A,N/A,Ventilation required,Welding
+UN1913,"Strychnine, mixture",6.1,II,N/A,Toxic substance,Pesticide
+UN1859,Cyanide,6.1,II,N/A,Fatal if swallowed,Pesticide
+UN1018,"TNT, blasting, n.o.s.",1.1,N/A,N/A,Maximum segregation - Segregate as per IMDG Code,Construction
+UN2005,Thorium,7,N/A,N/A,Licensed transport,Imaging
+UN1962,"Infectious substance, Category A",6.2,N/A,N/A,Biohazard,Research
+UN1852,Organic peroxide,5.2,N/A,N/A,Temperature controlled,Manufacturing
+UN2008,Radioactive material,7,N/A,N/A,Radiation hazard,Power generation
+UN1615,"Coal, pyrophoric",4.2,II,-60°C,No organic material - Consult SDS for details,Chemical production
+UN2180,"Lithium battery, n.o.s., n.o.s.",9,III,N/A,Environmental protection - Segregate as per IMDG Code,Electronics
+UN1136,"Ammunition, primer",1.3,N/A,N/A,Keep cool,Aerospace
+UN1268,Ethane,2.1,N/A,-20°C,Highly flammable,Fuel
+UN1889,"Nicotine, solution",6.1,II,N/A,Avoid inhalation,Laboratory
+UN1741,"Ammonium nitrate, solution, n.o.s.",5.1,II,N/A,Separate from organics,Water treatment
+UN1276,LPG,2.1,N/A,N/A,No ignition sources,Fuel
+UN1206,"Flare, illuminating",1.4,N/A,N/A,Keep dry,Entertainment
+UN2012,"Plutonium, Type A",7,N/A,N/A,Monitoring required,Industrial gauges
+UN1332,"Oxygen, liquefied, n.o.s.",2.2,N/A,N/A,Ventilation,Inert atmosphere
+UN2131,Elevated temperature,9,II,N/A,Check SDS,Various industrial
+UN1407,Carbon monoxide,2.3,N/A,N/A,Leak detection required,Chemical production
+UN1415,Chlorine,2.3,N/A,N/A,Toxic by inhalation - Emergency equipment nearby,Refrigeration
+UN1556,Phosphorus,4.1,III,-20°C,Away from heat - Consult SDS for details,Manufacturing
+UN1898,Lead compound,6.1,III,N/A,Avoid inhalation,Pesticide
+UN1919,"Pesticide, liquid",6.1,III,N/A,Fatal if swallowed,Laboratory
+UN1587,Matches,4.1,II,-60°C,Flammable solid - Segregate as per IMDG Code,Pyrotechnics
+UN2034,"Cesium, Type C",7,N/A,N/A,Radiation hazard,Imaging
+UN2038,"Cesium, n.o.s.",7,N/A,N/A,Licensed transport - Proper ventilation required,Power generation
+UN1947,"Medical waste, unspecified",6.2,N/A,N/A,Special packaging - Special training required,Healthcare
+UN1789,"Hydrogen peroxide, n.o.s.",5.1,II,N/A,Fire enhancement - Emergency equipment nearby,Water treatment
+UN1610,"Activated carbon, n.o.s.",4.2,I,-60°C,No organic material,Chemical production
+UN1606,"Activated carbon, pyrophoric, n.o.s.",4.2,II,N/A,Temperature monitoring - Segregate as per IMDG Code,Chemical production
+UN2047,"Cobalt, fissile",7,N/A,N/A,Monitoring required,Power generation
+UN1414,"Chlorine, refrigerated, n.o.s.",2.3,N/A,N/A,Toxic by inhalation - Consult SDS for details,Refrigeration
+UN1501,"Acetone, n.o.s.",3,III,-10°C,Bonding/grounding required - Segregate as per IMDG Code,Manufacturing
+UN2019,"Cesium, Type C",7,N/A,N/A,Licensed transport - Consult SDS for details,Power generation
+UN2086,Hydrochloric acid,8,III,N/A,Severe burns,Manufacturing
+UN1721,"Aluminum powder, n.o.s.",4.3,I,N/A,Keep absolutely dry,Industrial
+UN1075,"Warhead, with charge, n.o.s.",1.2,N/A,N/A,Projection hazard,Aerospace
+UN1339,"Nitrogen, compressed",2.2,N/A,N/A,Temperature control - Segregate as per IMDG Code,Industrial
+UN2159,"Environmentally hazardous, n.o.s.",9,II,N/A,Special handling - Proper ventilation required,Electronics
+UN1230,"Cartridge, blank, n.o.s.",1.4,N/A,N/A,Minor hazard - Keep away from foodstuffs,Entertainment
+UN2023,"Cesium, Type C",7,N/A,N/A,Licensed transport - Consult SDS for details,Imaging
+UN1226,"Flare, n.o.s.",1.4,N/A,N/A,Keep dry - Proper ventilation required,Emergency signaling
+UN1077,"Rocket, illuminating",1.2,N/A,N/A,Shock-sensitive,Pyrotechnics
+UN1832,"Organic peroxide, type E",5.2,N/A,N/A,May explode - Proper ventilation required,Plastics production
+UN1365,"Argon, compressed",2.2,N/A,N/A,Ventilation - Proper ventilation required,Industrial
+UN1454,"Ammonia, liquefied",2.3,N/A,N/A,Emergency procedures - Segregate as per IMDG Code,Industrial
+UN1641,"Activated carbon, stabilized",4.2,III,N/A,No organic material,Manufacturing
+UN1981,"Biological substance, unspecified",6.2,N/A,N/A,Biohazard,Laboratory
+UN1446,"Carbon monoxide, refrigerated, n.o.s.",2.3,N/A,N/A,Emergency procedures - Proper ventilation required,Refrigeration
+UN1934,"Medical waste, Category A, n.o.s.",6.2,N/A,N/A,Leak-proof - Segregate as per IMDG Code,Research
+UN1843,"Methyl ethyl ketone peroxide, type C",5.2,N/A,N/A,Refrigeration required - Special training required,Manufacturing
+UN1221,"Squib, illuminating",1.4,N/A,N/A,Minor hazard - Segregate as per IMDG Code,Safety
+UN1698,"Calcium, alloy",4.3,II,N/A,Emit flammable gas - Emergency equipment nearby,Industrial
+UN1281,"Butane, dissolved",2.1,N/A,N/A,Pressure hazard,Fuel
+UN1930,"Clinical waste, unspecified",6.2,N/A,N/A,Disinfection required - Consult SDS for details,Laboratory
+UN2024,"Thorium, surface contaminated",7,N/A,N/A,Shielding needed,Medical
+UN1963,Medical waste,6.2,N/A,N/A,Leak-proof - Emergency equipment nearby,Veterinary
+UN1072,"Rocket, training",1.2,N/A,N/A,Fire risk - Consult SDS for details,Pyrotechnics
+UN1079,"Rocket, illuminating",1.2,N/A,N/A,Separation required - Keep away from foodstuffs,Pyrotechnics

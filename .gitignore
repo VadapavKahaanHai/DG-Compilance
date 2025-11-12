@@ -20,7 +20,7 @@ dg/
 .env.local
 
 # Data (if sensitive)
-data/*.csv
+# data/*.csv
 
 # Testing
 .pytest_cache/

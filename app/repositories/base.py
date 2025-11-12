@@ -14,7 +14,8 @@ class BaseRepository(ABC):
     def df(self) -> pd.DataFrame:
         """Lazy load and cache dataframe"""
         if self._df is None:
-            self._df = pd.read_csv(self.file_path)
+            # self._df = pd.read_csv(self.file_path)
+            self._df = pd.read_csv(self.file_path, dtype=str)
         return self._df
     
     def refresh_cache(self):

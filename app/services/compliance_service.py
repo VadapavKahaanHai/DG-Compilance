@@ -1,16 +1,20 @@
 from typing import List, Dict
 from app.models.cargo import CargoItem
 from app.repositories.segregation_repository import SegregationRepository
+from app.repositories.dg_class_repository import DGClassRepository
 from app.services.risk_service import RiskService
 
 
 class ComplianceService:
     def __init__(self):
         self.segregation_repo = SegregationRepository()
+        self.dg_class_repo = DGClassRepository()
         self.risk_service = RiskService()
     
     def assess_cargo_compatibility(self, cargo_list: List[CargoItem]) -> Dict:
-        """Assess compatibility of multiple cargo items"""
+        """
+        Assess compatibility of multiple cargo items
+        """
         violations = []
         warnings = []
         compliant = []
@@ -19,11 +23,19 @@ class ComplianceService:
         # Convert Pydantic models to dicts
         cargo_dicts = [item.dict() for item in cargo_list]
         
+        print(f"Assessing {len(cargo_dicts)} cargo items")
+        
         # Compare each pair
-        for i, cargo1 in enumerate(cargo_dicts):
-            for j, cargo2 in enumerate(cargo_dicts[i+1:], start=i+1):
+        total_pairs = 0
+        for i in range(len(cargo_dicts)):
+            for j in range(i + 1, len(cargo_dicts)):
+                cargo1 = cargo_dicts[i]
+                cargo2 = cargo_dicts[j]
+                
                 class1 = cargo1['class_id']
                 class2 = cargo2['class_id']
+                
+                total_pairs += 1
                 
                 # Get segregation rule
                 rule = self.segregation_repo.get_rule(class1, class2)
@@ -45,6 +57,11 @@ class ComplianceService:
                 elif seg_code in ['3', '4']:
                     violations.append(comparison)
                     total_risk_score += rule['risk_penalty']
+                else:
+                    # Unknown code - treat as warning
+                    print(f"WARNING: Unknown segregation code '{seg_code}' for {class1} <-> {class2}")
+                    warnings.append(comparison)
+                    total_risk_score += rule.get('risk_penalty', 5)
         
         # Calculate risk percentage
         risk_score = self.risk_service.calculate_risk_percentage(
@@ -53,6 +70,8 @@ class ComplianceService:
         
         risk_level = self.risk_service.get_risk_level(risk_score)
         
+        print(f"Assessment complete: {total_pairs} pairs analyzed, Risk score: {risk_score:.1f}%")
+        
         return {
             'compliant': compliant,
             'warnings': warnings,
@@ -60,5 +79,21 @@ class ComplianceService:
             'risk_score': risk_score,
             'risk_level': risk_level,
             'total_risk_points': total_risk_score,
-            'total_comparisons': len(violations) + len(warnings) + len(compliant)
+            'total_comparisons': total_pairs
         }
+    
+    def get_detailed_analysis(self, cargo_list: List[CargoItem]) -> Dict:
+        """
+        Extended analysis with class information
+        """
+        assessment = self.assess_cargo_compatibility(cargo_list)
+        
+        # Add class-specific details
+        class_details = {}
+        for item in cargo_list:
+            class_info = self.dg_class_repo.get_class_info(item.class_id)
+            if class_info:
+                class_details[item.class_id] = class_info
+        
+        assessment['class_details'] = class_details
+        return assessment

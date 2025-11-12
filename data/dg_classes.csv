@@ -1,0 +1,22 @@
+class_id,class_name,primary_risk,description,general_risk_level,stowage_category,special_requirements
+1,Explosives,Explosion,Substances and articles with explosive properties,CRITICAL,B,Explosive magazine required
+1.1,Mass Explosion,Mass Explosion,Mass explosion hazard,CRITICAL,B,Maximum segregation
+1.2,Projection Hazard,Projection/Fire,Projection hazard but not mass explosion,CRITICAL,B,Away from living quarters
+1.3,Fire Hazard,Fire,Fire hazard and minor blast,HIGH,B,Keep cool and dry
+1.4,Minor Explosion,Minor Blast,No significant hazard,MEDIUM,A,Standard stowage
+1.5,Very Insensitive,Insensitive Explosion,Very insensitive substances,LOW,A,Standard stowage
+1.6,Extremely Insensitive,Extremely Stable,Extremely insensitive articles,LOW,A,Standard stowage
+2.1,Flammable Gases,Fire/Explosion,Gases which are flammable at 20°C,HIGH,D,Away from ignition sources
+2.2,Non-flammable Gases,Asphyxiation,"Non-flammable, non-toxic gases",MEDIUM,A,Ventilated area
+2.3,Toxic Gases,Toxicity,Gases which are toxic by inhalation,CRITICAL,D,Toxic gas warning system
+3,Flammable Liquids,Fire,Liquids with flashpoint ≤60°C,HIGH,E,Away from heat/ignition
+4.1,Flammable Solids,Fire,"Flammable solids, self-reactive",HIGH,E,Keep dry
+4.2,Spontaneous Combustion,Spontaneous Fire,Liable to spontaneous combustion,HIGH,D,Protect from heat
+4.3,Dangerous When Wet,Fire/Toxic Gas,Emit flammable gas in contact with water,HIGH,E,Keep away from water
+5.1,Oxidizing Substances,Fire Enhancement,Oxidizing substances,HIGH,B,Away from combustibles
+5.2,Organic Peroxides,Fire/Explosion,Organic peroxides - thermally unstable,CRITICAL,D,Temperature controlled
+6.1,Toxic Substances,Poisoning,Toxic substances causing death/injury,HIGH,A,Ventilation required
+6.2,Infectious Substances,Infection,Pathogens - bacteria/viruses,CRITICAL,B,Biohazard containment
+7,Radioactive Material,Radiation,Contain radioactive isotopes,CRITICAL,B,Radiation monitoring
+8,Corrosive Substances,Chemical Burns,Cause severe corrosion to skin/metals,MEDIUM,C,Separate from foodstuffs
+9,Miscellaneous Dangerous Goods,Various,Other substances presenting danger,LOW,A,Check compatibility
